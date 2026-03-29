@@ -70,8 +70,13 @@ def send_email_notification(date_str: str, content: str):
     sender = os.getenv("EMAIL_SENDER")
     password = os.getenv("EMAIL_PASSWORD")
     receiver = os.getenv("EMAIL_RECEIVER")
-    smtp_server = os.getenv("SMTP_SERVER", "smtp.gmail.com")
-    smtp_port = int(os.getenv("SMTP_PORT", "587"))
+    smtp_server = os.getenv("SMTP_SERVER") or "smtp.gmail.com"
+    smtp_port_raw = os.getenv("SMTP_PORT") or "587"
+    try:
+        smtp_port = int(smtp_port_raw)
+    except ValueError:
+        logger.warning(f"Invalid SMTP_PORT value '{smtp_port_raw}'. Falling back to 587.")
+        smtp_port = 587
     
     if not all([sender, password, receiver]):
         logger.debug("Email credentials not fully configured. Skipping Email notification.")
