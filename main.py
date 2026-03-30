@@ -25,7 +25,7 @@ def run_news_analyzer_pipeline():
 
     # Step 3: Report
     logger.info("Step 3: Generating final markdown report...")
-    report_file = generate_markdown_report(analysis_text)
+    report_file = generate_markdown_report(analysis_text, articles)
     
     logger.info(f"Pipeline finished! Report generated successfully at: {report_file}")
 
