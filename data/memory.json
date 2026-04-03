@@ -1,1 +1,50 @@
-{"version": 2, "entries": []}
+{
+  "version": 2,
+  "entries": [
+    {
+      "date": "2026-04-03",
+      "sector": "BUSINESS & FINANCE",
+      "headline_themes": [
+        "Iran",
+        "President",
+        "Trump",
+        "Industrials",
+        "Attorney",
+        "General",
+        "Bondi",
+        "Army"
+      ],
+      "expert_summary": "The Dow Industrials closed lower due to concerns about the ongoing Iran war, while President Trump's personnel changes, including the firing of Attorney General Pam Bondi and Army Chief of Staff Randy George, may impact market sentiment. The situation may lead to increased market volatility and potential economic instability.",
+      "emerging_narrative": "The ongoing Iran war, combined with President Trump's personnel changes, may lead to increased market volatility and potential economic instability, with implications for global trade and economic relationships.",
+      "contrarian_note": "The Iran war could inadvertently catalyze the emergence of a multipolar financial system, threatening US dollar dominance",
+      "impact_scores": [],
+      "tags": [
+        "BUSINESS & FINANCE",
+        "Finance",
+        "Energy",
+        "Defense",
+        "US"
+      ]
+    },
+    {
+      "date": "2026-04-03",
+      "sector": "INDIA POLICY",
+      "headline_themes": [
+        "Iran",
+        "Israel",
+        "India",
+        "However"
+      ],
+      "expert_summary": "The Iran-Israel conflict escalates with missile launches, but there is no direct mention of India's policy or involvement. However, India's historical ties with Iran and its current diplomatic efforts may be impacted. The situation may lead to increased geopolitical tensions and potential sanctions.",
+      "emerging_narrative": "The escalating conflict between Iran and Israel may lead to a broader geopolitical crisis, with potential implications for global trade, energy security, and diplomatic relationships.",
+      "contrarian_note": "India's unique position between Iran and Israel could become a hidden catalyst for its economic growth",
+      "impact_scores": [],
+      "tags": [
+        "INDIA POLICY",
+        "Energy",
+        "Finance",
+        "Defense"
+      ]
+    }
+  ]
+}
