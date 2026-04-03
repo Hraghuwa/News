@@ -213,7 +213,8 @@ def send_email_notification(date_str: str, analysis_text: str, articles: list):
         smtp_port = 587
 
     if not all([sender, password, receiver]):
-        logger.debug("Email credentials not fully configured. Skipping.")
+        missing = [k for k, v in {"EMAIL_SENDER": sender, "EMAIL_PASSWORD": password, "EMAIL_RECEIVER": receiver}.items() if not v]
+        logger.warning(f"Email skipped — missing secrets: {missing}")
         return
 
     logger.info(f"Sending Email report to {receiver}...")
