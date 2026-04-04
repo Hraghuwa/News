@@ -186,24 +186,63 @@ def _build_leaderboard(all_scored: list[dict]) -> str:
     </div>"""
 
 
-# ── Section: Raw Article Cards ────────────────────────────────────────────────
+# ── Section: Enriched Article Cards ──────────────────────────────────────────
 
-def _build_article_cards(articles: list[dict]) -> str:
+def _build_article_cards(articles: list[dict], newsletter_sections: list[dict] = None) -> str:
+    # Build lookup: normalised title → enriched section from editor
+    lookup: dict[str, dict] = {}
+    for s in (newsletter_sections or []):
+        key = s.get("headline", "").lower().strip()
+        if key:
+            lookup[key] = s
+
     cards = ""
     for i, a in enumerate(articles[:20], 1):
         category = a.get("category", "")
         color = CATEGORY_COLORS.get(category, "#455a64")
         summary = a.get("summary", "")
+        title = a.get("title", "")
+
+        # Try to match enriched section by title
+        section = lookup.get(title.lower().strip())
+
+        # Score badge (from all_scored via section or article itself)
+        score = section.get("impact_score") if section else a.get("score")
+        score_html = f" {_score_badge(score)}" if score else ""
+
+        bs_flag = ""
+        if section and section.get("is_black_swan"):
+            bs_flag = ' <span style="background:#c62828;color:#fff;font-size:10px;font-weight:700;padding:2px 7px;border-radius:20px;">🚨 BLACK SWAN</span>'
+
+        enrichment_html = ""
+        if section:
+            action = section.get("action_signal", "")
+            missing = section.get("what_everyone_is_missing", "")
+            future = section.get("future_perspective", "")
+            memory_cb = section.get("memory_callback", "")
+
+            enrichment_html = f"""
+          <div style="border-top:1px solid #eef0f8;margin-top:12px;padding-top:12px;">
+            {"<p style='margin:0 0 6px;color:#546e7a;font-size:11px;font-style:italic;'>🕐 " + memory_cb + "</p>" if memory_cb else ""}
+            <table cellpadding="0" cellspacing="0" width="100%">
+              {"<tr><td style='padding:5px 0;vertical-align:top;width:20px;font-size:14px;'>⚡</td><td style='padding:5px 0 5px 6px;'><span style='color:#1565c0;font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:0.5px;display:block;'>Action Signal</span><span style='color:#1a237e;font-size:13px;'>" + action + "</span></td></tr>" if action else ""}
+              {"<tr><td style='padding:5px 0;vertical-align:top;width:20px;font-size:14px;'>🔍</td><td style='padding:5px 0 5px 6px;'><span style='color:#6a1b9a;font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:0.5px;display:block;'>What Everyone Is Missing</span><span style='color:#4a148c;font-size:13px;'>" + missing + "</span></td></tr>" if missing else ""}
+              {"<tr><td style='padding:5px 0;vertical-align:top;width:20px;font-size:14px;'>🔮</td><td style='padding:5px 0 5px 6px;'><span style='color:#1b5e20;font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:0.5px;display:block;'>Future Perspective</span><span style='color:#1b5e20;font-size:13px;'>" + future + "</span></td></tr>" if future else ""}
+            </table>
+          </div>"""
+
         cards += f"""
         <div style="background:#fff;border:1px solid #e8eaf6;border-radius:10px;
-                    padding:18px 20px;margin-bottom:12px;border-left:4px solid {color};">
+                    padding:18px 20px;margin-bottom:14px;border-left:4px solid {color};">
           <div style="display:flex;align-items:center;gap:8px;margin-bottom:8px;flex-wrap:wrap;">
             <span style="background:{color};color:#fff;font-size:11px;font-weight:700;
                          padding:3px 9px;border-radius:20px;">{a.get('source','')}</span>
             <span style="color:#9e9e9e;font-size:12px;">#{i}</span>
+            {score_html}{bs_flag}
           </div>
-          <h3 style="margin:0 0 8px;font-size:14px;color:#1a1a1a;line-height:1.4;">{a.get('title','')}</h3>
+          <h3 style="margin:0 0 8px;font-size:14px;color:#1a1a1a;line-height:1.4;">{title}</h3>
           <p style="margin:0;color:#555;font-size:12px;line-height:1.6;">{summary[:280]}{'...' if len(summary) > 280 else ''}</p>
+          {enrichment_html}
         </div>"""
     return cards
 
@@ -228,7 +267,7 @@ def build_html_email(date_str: str, newsletter: dict, articles: list[dict], all_
     expert_html = _build_expert_sections(newsletter.get("sections", []))
     contrarian_html = _build_contrarian_spotlight(newsletter.get("contrarian_spotlight", {}))
     leaderboard_html = _build_leaderboard(all_scored)
-    article_cards_html = _build_article_cards(articles)
+    article_cards_html = _build_article_cards(articles, newsletter.get("sections", []))
 
     return f"""<!DOCTYPE html>
 <html lang="en">

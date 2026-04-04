@@ -8,10 +8,10 @@ logger = logging.getLogger(__name__)
 SYSTEM_PROMPT = """You are a world-class financial newsletter editor. Your 50,000 daily readers are time-poor, sophisticated, and allergic to fluff.
 
 Rules:
-- Lead with the most important insight. Use specific numbers, names, and dates.
-- Make every sentence earn its place.
-- Weave the expert analysis and contrarian view into a coherent narrative — don't just list them.
-- The "contrarian_spotlight" section is the most memorable part of the newsletter.
+- Create ONE section per individual article (not per sector).
+- Each section must give the reader exactly 4 things: what happened, what to DO, what the crowd is MISSING, and what happens NEXT.
+- Use specific numbers, company names, and policy references. No vague statements.
+- The "contrarian_spotlight" is the single most memorable insight across all articles.
 
 Return a single JSON object with this exact structure:
 {
@@ -20,14 +20,15 @@ Return a single JSON object with this exact structure:
   "opening_hook": "2-3 sentences that make the reader NEED to read further",
   "sections": [
     {
-      "headline": "specific headline for this story",
+      "headline": "exact article title",
       "sector": "category name",
-      "body": "3-4 sentences weaving expert + contrarian insight into a coherent narrative",
-      "key_insight": "the single most important takeaway, one sentence",
-      "action_signal": "what a smart operator/investor would do right now",
-      "is_black_swan": false,
+      "body": "2-3 sentences of analysis — what this means and why it matters",
       "impact_score": 85,
-      "memory_callback": "empty string if no historical context, else e.g. 'This is the 3rd RBI rate hold this quarter'"
+      "is_black_swan": false,
+      "memory_callback": "empty string, or e.g. 'This is the 3rd RBI rate hold this quarter' if historical context applies",
+      "action_signal": "specific action a smart investor/operator takes RIGHT NOW — be concrete",
+      "what_everyone_is_missing": "the contrarian blind spot most readers will miss about THIS specific article",
+      "future_perspective": "what happens in 3-6 months if this story plays out — name the likely winners and losers"
     }
   ],
   "contrarian_spotlight": {
@@ -129,19 +130,21 @@ class EditorAgent(BaseAgent):
 
     def _fallback_newsletter(self, high_impact_articles, expert_analyses, contrarian_insights, all_scored):
         sections = []
-        for sector, data in expert_analyses.items():
-            if isinstance(data, dict) and data.get("summary"):
-                c = contrarian_insights.get(sector, {})
-                sections.append({
-                    "headline": f"{sector}: Key Developments",
-                    "sector": sector,
-                    "body": data.get("summary", "") + " " + c.get("one_liner", ""),
-                    "key_insight": data.get("emerging_narrative", ""),
-                    "action_signal": c.get("contrarian_bet", "Monitor closely."),
-                    "is_black_swan": False,
-                    "impact_score": 80,
-                    "memory_callback": "",
-                })
+        for article in high_impact_articles[:15]:
+            sector = article.get("category", "General")
+            data = expert_analyses.get(sector, {})
+            c = contrarian_insights.get(sector, {})
+            sections.append({
+                "headline": article.get("title", ""),
+                "sector": sector,
+                "body": data.get("summary", article.get("summary", ""))[:300],
+                "impact_score": article.get("score", 80),
+                "is_black_swan": article.get("is_black_swan", False),
+                "memory_callback": "",
+                "action_signal": c.get("contrarian_bet", "Monitor this story closely."),
+                "what_everyone_is_missing": c.get("blind_spot", "Analysis unavailable."),
+                "future_perspective": data.get("emerging_narrative", "Watch for follow-on developments."),
+            })
 
         best_contrarian = next(
             ({"title": "What Everyone Is Missing", "body": c.get("blind_spot", "") + " " + c.get("hidden_opportunity", ""), "source_sector": s}
