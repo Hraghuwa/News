@@ -76,7 +76,7 @@ def _build_opening_hook(hook: str) -> str:
     </div>"""
 
 
-# ── Section: Expert Analysis Cards ───────────────────────────────────────────
+# ── Section: Structured Analysis Cards (per article) ─────────────────────────
 
 def _build_expert_sections(sections: list[dict]) -> str:
     if not sections:
@@ -85,45 +85,76 @@ def _build_expert_sections(sections: list[dict]) -> str:
     for s in sections:
         sector = s.get("sector", "")
         color = CATEGORY_COLORS.get(sector, "#455a64")
+        score = s.get("impact_score", 0)
+
         bs_flag = ""
         if s.get("is_black_swan"):
-            bs_flag = '<span style="background:#c62828;color:#fff;font-size:10px;font-weight:700;padding:2px 8px;border-radius:20px;margin-left:8px;">🚨 BLACK SWAN</span>'
+            bs_flag = ' <span style="background:#c62828;color:#fff;font-size:10px;font-weight:700;padding:2px 8px;border-radius:20px;">🚨 BLACK SWAN</span>'
+
         memory_cb = s.get("memory_callback", "")
-        memory_block = ""
-        if memory_cb:
-            memory_block = f'<p style="margin:10px 0 0;color:#78909c;font-size:12px;font-style:italic;">🕐 {memory_cb}</p>'
+        memory_html = f'<p style="margin:0 0 10px;color:#78909c;font-size:11px;font-style:italic;">🕐 {memory_cb}</p>' if memory_cb else ""
+
+        # What Happened
+        what_happened = s.get("what_happened", "")
+        what_happened_html = f"""
+          <div style="margin-bottom:12px;">
+            <span style="color:#37474f;font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:0.8px;display:block;margin-bottom:4px;">What Happened</span>
+            <p style="margin:0;color:#333;font-size:13px;line-height:1.7;">{what_happened}</p>
+          </div>""" if what_happened else ""
+
+        # Industry Disruption bullets
+        disruptions = s.get("industry_disruption", [])
+        if isinstance(disruptions, list) and disruptions:
+            bullet_items = "".join(
+                f'<li style="margin:4px 0;color:#444;font-size:13px;line-height:1.6;">{d}</li>'
+                for d in disruptions if d
+            )
+            disruption_html = f"""
+          <div style="margin-bottom:12px;">
+            <span style="color:#37474f;font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:0.8px;display:block;margin-bottom:6px;">Industry Disruption</span>
+            <ul style="margin:0;padding-left:18px;">{bullet_items}</ul>
+          </div>"""
+        else:
+            disruption_html = ""
+
+        # Investment Angle
+        investment = s.get("investment_angle", "")
+        investment_html = f"""
+          <div style="background:#e8f5e9;border-radius:6px;padding:10px 14px;margin-bottom:10px;">
+            <span style="color:#1b5e20;font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:0.8px;display:block;margin-bottom:3px;">Investment Angle</span>
+            <p style="margin:0;color:#1b5e20;font-size:13px;line-height:1.6;">{investment}</p>
+          </div>""" if investment else ""
+
+        # Action Signal
         action = s.get("action_signal", "")
-        action_block = ""
-        if action:
-            action_block = f"""
-            <div style="background:#f0f4ff;border-radius:6px;padding:10px 14px;margin-top:10px;">
-              <span style="color:#1565c0;font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:0.5px;">Action Signal</span>
-              <p style="margin:4px 0 0;color:#1a237e;font-size:13px;">{action}</p>
-            </div>"""
+        action_html = f"""
+          <div style="background:#e3f2fd;border-radius:6px;padding:10px 14px;">
+            <span style="color:#0d47a1;font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:0.8px;display:block;margin-bottom:3px;">Action Signal</span>
+            <p style="margin:0;color:#0d47a1;font-size:13px;font-weight:600;line-height:1.6;">{action}</p>
+          </div>""" if action else ""
+
         cards += f"""
-        <div style="background:#fff;border:1px solid #e8eaf6;border-radius:10px;
-                    padding:18px 20px;margin-bottom:16px;border-left:4px solid {color};">
-          <div style="display:flex;align-items:center;flex-wrap:wrap;gap:6px;margin-bottom:10px;">
+        <div style="background:#fff;border:1px solid #e8eaf6;border-radius:12px;
+                    padding:20px 22px;margin-bottom:18px;border-left:5px solid {color};">
+          <div style="display:flex;align-items:center;flex-wrap:wrap;gap:6px;margin-bottom:12px;">
             <span style="background:{color};color:#fff;font-size:11px;font-weight:700;
-                         padding:3px 9px;border-radius:20px;">{sector}</span>
-            {_score_badge(s.get('impact_score', 80))}
+                         padding:3px 10px;border-radius:20px;">{sector}</span>
+            {_score_badge(score)}
             {bs_flag}
           </div>
-          <h3 style="margin:0 0 8px;font-size:15px;color:#1a1a1a;line-height:1.4;">
+          <h3 style="margin:0 0 12px;font-size:15px;color:#1a1a1a;line-height:1.4;font-weight:700;">
             {s.get('headline','')}
           </h3>
-          <p style="margin:0 0 8px;color:#444;font-size:13px;line-height:1.7;">
-            {s.get('body','')}
-          </p>
-          <p style="margin:0;color:#0d47a1;font-size:13px;font-weight:600;">
-            💡 {s.get('key_insight','')}
-          </p>
-          {action_block}
-          {memory_block}
+          {memory_html}
+          {what_happened_html}
+          {disruption_html}
+          {investment_html}
+          {action_html}
         </div>"""
+
     return f"""
-    <h2 style="margin:0 0 16px;color:#283593;font-size:18px;border-bottom:2px solid #e8eaf6;padding-bottom:10px;">
-      🤖 Expert Multi-Lens Analysis
+    <h2 style="margin:0 0 20px;color:#283593;font-size:18px;border-bottom:2px solid #e8eaf6;padding-bottom:10px;">
+      🧠 Full Intelligence Analysis — Every Story, Every Sector
     </h2>
     {cards}"""
 
@@ -186,65 +217,46 @@ def _build_leaderboard(all_scored: list[dict]) -> str:
     </div>"""
 
 
-# ── Section: Enriched Article Cards ──────────────────────────────────────────
+# ── Section: Raw Article Cards (all headlines, lightweight) ──────────────────
 
 def _build_article_cards(articles: list[dict], newsletter_sections: list[dict] = None) -> str:
-    # Build lookup: normalised title → enriched section from editor
-    lookup: dict[str, dict] = {}
-    for s in (newsletter_sections or []):
-        key = s.get("headline", "").lower().strip()
-        if key:
-            lookup[key] = s
+    # Build set of headlines already covered in full analysis
+    analyzed_titles: set[str] = {s.get("headline", "").lower().strip() for s in (newsletter_sections or [])}
 
     cards = ""
-    for i, a in enumerate(articles[:20], 1):
+    count = 0
+    for a in articles:
+        title = a.get("title", "")
+        if title.lower().strip() in analyzed_titles:
+            continue  # Skip — already shown with full analysis above
+        count += 1
+        if count > 15:
+            break
         category = a.get("category", "")
         color = CATEGORY_COLORS.get(category, "#455a64")
         summary = a.get("summary", "")
-        title = a.get("title", "")
-
-        # Try to match enriched section by title
-        section = lookup.get(title.lower().strip())
-
-        # Score badge (from all_scored via section or article itself)
-        score = section.get("impact_score") if section else a.get("score")
+        score = a.get("score")
         score_html = f" {_score_badge(score)}" if score else ""
 
-        bs_flag = ""
-        if section and section.get("is_black_swan"):
-            bs_flag = ' <span style="background:#c62828;color:#fff;font-size:10px;font-weight:700;padding:2px 7px;border-radius:20px;">🚨 BLACK SWAN</span>'
-
-        enrichment_html = ""
-        if section:
-            action = section.get("action_signal", "")
-            missing = section.get("what_everyone_is_missing", "")
-            future = section.get("future_perspective", "")
-            memory_cb = section.get("memory_callback", "")
-
-            enrichment_html = f"""
-          <div style="border-top:1px solid #eef0f8;margin-top:12px;padding-top:12px;">
-            {"<p style='margin:0 0 6px;color:#546e7a;font-size:11px;font-style:italic;'>🕐 " + memory_cb + "</p>" if memory_cb else ""}
-            <table cellpadding="0" cellspacing="0" width="100%">
-              {"<tr><td style='padding:5px 0;vertical-align:top;width:20px;font-size:14px;'>⚡</td><td style='padding:5px 0 5px 6px;'><span style='color:#1565c0;font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:0.5px;display:block;'>Action Signal</span><span style='color:#1a237e;font-size:13px;'>" + action + "</span></td></tr>" if action else ""}
-              {"<tr><td style='padding:5px 0;vertical-align:top;width:20px;font-size:14px;'>🔍</td><td style='padding:5px 0 5px 6px;'><span style='color:#6a1b9a;font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:0.5px;display:block;'>What Everyone Is Missing</span><span style='color:#4a148c;font-size:13px;'>" + missing + "</span></td></tr>" if missing else ""}
-              {"<tr><td style='padding:5px 0;vertical-align:top;width:20px;font-size:14px;'>🔮</td><td style='padding:5px 0 5px 6px;'><span style='color:#1b5e20;font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:0.5px;display:block;'>Future Perspective</span><span style='color:#1b5e20;font-size:13px;'>" + future + "</span></td></tr>" if future else ""}
-            </table>
-          </div>"""
-
         cards += f"""
-        <div style="background:#fff;border:1px solid #e8eaf6;border-radius:10px;
-                    padding:18px 20px;margin-bottom:14px;border-left:4px solid {color};">
-          <div style="display:flex;align-items:center;gap:8px;margin-bottom:8px;flex-wrap:wrap;">
-            <span style="background:{color};color:#fff;font-size:11px;font-weight:700;
-                         padding:3px 9px;border-radius:20px;">{a.get('source','')}</span>
-            <span style="color:#9e9e9e;font-size:12px;">#{i}</span>
-            {score_html}{bs_flag}
+        <div style="background:#fafafa;border:1px solid #e8eaf6;border-radius:8px;
+                    padding:14px 16px;margin-bottom:10px;border-left:3px solid {color};">
+          <div style="display:flex;align-items:center;gap:6px;margin-bottom:6px;flex-wrap:wrap;">
+            <span style="background:{color};color:#fff;font-size:10px;font-weight:700;
+                         padding:2px 8px;border-radius:20px;">{a.get('source','')}</span>
+            {score_html}
           </div>
-          <h3 style="margin:0 0 8px;font-size:14px;color:#1a1a1a;line-height:1.4;">{title}</h3>
-          <p style="margin:0;color:#555;font-size:12px;line-height:1.6;">{summary[:280]}{'...' if len(summary) > 280 else ''}</p>
-          {enrichment_html}
+          <p style="margin:0 0 4px;color:#1a1a1a;font-size:13px;font-weight:600;line-height:1.4;">{title}</p>
+          <p style="margin:0;color:#777;font-size:12px;line-height:1.5;">{summary[:220]}{'...' if len(summary) > 220 else ''}</p>
         </div>"""
-    return cards
+
+    if not cards:
+        return ""
+    return f"""
+    <h2 style="margin:28px 0 14px;color:#546e7a;font-size:15px;border-bottom:1px solid #e8eaf6;padding-bottom:8px;">
+      📰 Additional Headlines
+    </h2>
+    {cards}"""
 
 
 # ── Main HTML builder ─────────────────────────────────────────────────────────

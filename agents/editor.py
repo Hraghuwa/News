@@ -5,13 +5,15 @@ from agents.base_agent import BaseAgent
 
 logger = logging.getLogger(__name__)
 
-SYSTEM_PROMPT = """You are a world-class financial newsletter editor. Your 50,000 daily readers are time-poor, sophisticated, and allergic to fluff.
+SYSTEM_PROMPT = """You are a world-class financial and business intelligence analyst. Your readers are investors, operators, and decision-makers who need structured, actionable analysis — not summaries.
 
 Rules:
-- Create ONE section per individual article (not per sector).
-- Each section must give the reader exactly 4 things: what happened, what to DO, what the crowd is MISSING, and what happens NEXT.
-- Use specific numbers, company names, and policy references. No vague statements.
-- The "contrarian_spotlight" is the single most memorable insight across all articles.
+- Create ONE section per individual article — cover EVERY article provided, across ALL sectors (Technology, Business & Finance, India Finance, India Policy, Geopolitics, etc.)
+- Use specific numbers, company names, policy names, and sector references. Never be vague.
+- "industry_disruption" must be 3-5 concrete bullet points, not generic statements.
+- "investment_angle" must name specific industries, asset classes, or companies that benefit or lose.
+- "action_signal" must be a single specific move — not "monitor closely" or "watch this space".
+- The "contrarian_spotlight" is the single most surprising non-consensus insight across ALL articles.
 
 Return a single JSON object with this exact structure:
 {
@@ -22,13 +24,17 @@ Return a single JSON object with this exact structure:
     {
       "headline": "exact article title",
       "sector": "category name",
-      "body": "2-3 sentences of analysis — what this means and why it matters",
       "impact_score": 85,
       "is_black_swan": false,
       "memory_callback": "empty string, or e.g. 'This is the 3rd RBI rate hold this quarter' if historical context applies",
-      "action_signal": "specific action a smart investor/operator takes RIGHT NOW — be concrete",
-      "what_everyone_is_missing": "the contrarian blind spot most readers will miss about THIS specific article",
-      "future_perspective": "what happens in 3-6 months if this story plays out — name the likely winners and losers"
+      "what_happened": "1-2 sentences — factual summary of the event. What exactly happened, who did it, what changed.",
+      "industry_disruption": [
+        "Bullet 1: specific industry or company that is disrupted and how",
+        "Bullet 2: regulatory or competitive shift this triggers",
+        "Bullet 3: who loses market share or faces new headwinds"
+      ],
+      "investment_angle": "Specific opportunities — name the sectors, asset classes, or companies that stand to gain. Be concrete.",
+      "action_signal": "Single specific action: e.g. 'Accumulate IRFC bonds ahead of Q1 infra disbursals' or 'Short legacy media ETFs as AI content scales'"
     }
   ],
   "contrarian_spotlight": {
@@ -79,7 +85,7 @@ class EditorAgent(BaseAgent):
         # Extract black swan alerts from sections
         if not result.get("black_swan_alerts"):
             result["black_swan_alerts"] = [
-                {"headline": s["headline"], "body": s["body"], "score": s.get("impact_score", 95)}
+                {"headline": s["headline"], "body": s.get("what_happened", ""), "score": s.get("impact_score", 95)}
                 for s in result.get("sections", [])
                 if s.get("is_black_swan")
             ]
@@ -87,14 +93,16 @@ class EditorAgent(BaseAgent):
         return result
 
     def _build_prompt(self, high_impact_articles, expert_analyses, contrarian_insights, all_scored, threshold):
-        parts = [f"Compile a newsletter from the following intelligence. Only include stories scoring {threshold}+.\n"]
+        parts = ["Analyze EVERY article listed below. Produce one section per article covering all sectors.\n"]
 
-        parts.append(f"=== HIGH-IMPACT STORIES (score {threshold}+) ===")
-        for a in high_impact_articles[:20]:
+        parts.append(f"=== ALL ARTICLES TO ANALYZE ({len(high_impact_articles)} total) ===")
+        for a in high_impact_articles:
             flag = "🚨 BLACK SWAN" if a.get("is_black_swan") else ""
-            parts.append(f"• [{a.get('score', '?')}] {a['title']} ({a['source']}) {flag}")
+            parts.append(f"• [Score {a.get('score', '?')} | {a.get('category', '')}] [{a['source']}] {a['title']} {flag}")
+            if a.get("summary"):
+                parts.append(f"  Context: {a['summary'][:200]}")
             if a.get("reasoning"):
-                parts.append(f"  Reasoning: {a['reasoning']}")
+                parts.append(f"  Impact reasoning: {a['reasoning']}")
         parts.append("")
 
         parts.append("=== EXPERT ANALYSIS PER SECTOR ===")
@@ -130,20 +138,23 @@ class EditorAgent(BaseAgent):
 
     def _fallback_newsletter(self, high_impact_articles, expert_analyses, contrarian_insights, all_scored):
         sections = []
-        for article in high_impact_articles[:15]:
+        for article in high_impact_articles[:20]:
             sector = article.get("category", "General")
             data = expert_analyses.get(sector, {})
             c = contrarian_insights.get(sector, {})
             sections.append({
                 "headline": article.get("title", ""),
                 "sector": sector,
-                "body": data.get("summary", article.get("summary", ""))[:300],
                 "impact_score": article.get("score", 80),
                 "is_black_swan": article.get("is_black_swan", False),
                 "memory_callback": "",
-                "action_signal": c.get("contrarian_bet", "Monitor this story closely."),
-                "what_everyone_is_missing": c.get("blind_spot", "Analysis unavailable."),
-                "future_perspective": data.get("emerging_narrative", "Watch for follow-on developments."),
+                "what_happened": article.get("summary", "")[:250],
+                "industry_disruption": [
+                    data.get("emerging_narrative", "Market impact under analysis."),
+                    c.get("blind_spot", "Competitive dynamics shifting."),
+                ],
+                "investment_angle": c.get("hidden_opportunity", "Opportunities under analysis."),
+                "action_signal": c.get("contrarian_bet", "Review exposure to this sector."),
             })
 
         best_contrarian = next(
