@@ -3,6 +3,48 @@
   "entries": [
     {
       "date": "2026-04-04",
+      "sector": "INDIA POLICY",
+      "headline_themes": [
+        "Iran",
+        "Indian"
+      ],
+      "expert_summary": "The US jobs report showed a better-than-expected increase in payrolls and a fall in unemployment, which may have a positive impact on Indian companies with US exposure, but the escalating US-Iran conflict is a major concern for global markets.",
+      "emerging_narrative": "The US jobs report and the escalating US-Iran conflict are having a mixed impact on Indian companies and markets, with potential benefits for companies with US exposure, but also increased risks and volatility.",
+      "contrarian_note": "India may emerge as a beneficiary of the US-Iran conflict, driven by increased oil exports and strategic geopolitical alliances.",
+      "impact_scores": [],
+      "tags": [
+        "INDIA POLICY",
+        "Finance",
+        "Energy",
+        "IT",
+        "US"
+      ]
+    },
+    {
+      "date": "2026-04-04",
+      "sector": "BUSINESS & FINANCE",
+      "headline_themes": [
+        "Iran",
+        "Industrials",
+        "President",
+        "Trump",
+        "Iranian",
+        "March"
+      ],
+      "expert_summary": "The ongoing Iran war is causing concerns in the financial markets, with the Dow Industrials closing lower due to the escalating situation and President Trump's threats to destroy Iranian infrastructure. The US labor market showed resilience with a better-than-expected jobs report, but geopolitical tensions are dominating market sentiment. US payrolls rose by 178,000 in March, exceeding expectations, while the unemployment rate fell to 4.3%.",
+      "emerging_narrative": "The escalating US-Iran conflict is dominating market sentiment, while the strong US jobs report is providing a counterbalance, leading to increased volatility and sector rotation in financial markets.",
+      "contrarian_note": "The Iran war may be a catalyst for a defense sector rally, despite the overall market downturn.",
+      "impact_scores": [],
+      "tags": [
+        "BUSINESS & FINANCE",
+        "Finance",
+        "Energy",
+        "Defense",
+        "US"
+      ]
+    },
+    {
+      "date": "2026-04-04",
       "sector": "BUSINESS & FINANCE",
       "headline_themes": [
         "Iran",
