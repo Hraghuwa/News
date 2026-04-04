@@ -3,6 +3,31 @@
   "entries": [
     {
       "date": "2026-04-04",
+      "sector": "BUSINESS & FINANCE",
+      "headline_themes": [
+        "Iran",
+        "Middle",
+        "East",
+        "Industrials",
+        "President",
+        "Trump",
+        "Iranian"
+      ],
+      "expert_summary": "The escalating US-Iran conflict is causing concerns in the financial markets, with the Dow Industrials closing lower, while a better-than-expected US jobs report may have a positive impact on certain sectors. The situation is highly uncertain, with a US fighter jet shot down in Iran and President Trump threatening to destroy Iranian infrastructure. The US jobs report showed a significant increase in payrolls and a fall in unemployment, which may boost market sentiment.",
+      "emerging_narrative": "The US-Iran conflict is a significant escalation of tensions in the Middle East, with potential implications for global alliances, trade relationships, and commodity prices. The situation is highly uncertain, with potential for further destabilization and increased investment in defense and cybersec",
+      "contrarian_note": "The US-Iran conflict could be a boon for companies that help businesses navigate complex global supply chains.",
+      "impact_scores": [],
+      "tags": [
+        "BUSINESS & FINANCE",
+        "Defense",
+        "Energy",
+        "Finance",
+        "AI",
+        "US"
+      ]
+    },
+    {
+      "date": "2026-04-04",
       "sector": "INDIA POLICY",
       "headline_themes": [
         "Iran",
