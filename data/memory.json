@@ -2,6 +2,67 @@
   "version": 2,
   "entries": [
     {
+      "date": "2026-04-05",
+      "sector": "INDIA FINANCE",
+      "headline_themes": [
+        "India",
+        "Iran"
+      ],
+      "expert_summary": "The global crude oil markets are in turmoil, with surging prices casting a dampening shadow over economies worldwide. India may be impacted by the oil price shock, but may also emerge as a beneficiary of the US-Iran conflict.",
+      "emerging_narrative": "The oil price shock is having a significant impact on the global economy, with India potentially emerging as a beneficiary of the US-Iran conflict.",
+      "contrarian_note": "A strengthening Indian rupee may be the unexpected outcome of the US-Iran conflict",
+      "impact_scores": [],
+      "tags": [
+        "INDIA FINANCE",
+        "Energy",
+        "Finance",
+        "US"
+      ]
+    },
+    {
+      "date": "2026-04-05",
+      "sector": "BUSINESS & FINANCE",
+      "headline_themes": [
+        "Iran",
+        "Industrials",
+        "Apple"
+      ],
+      "expert_summary": "The US-Iran conflict is causing concerns in the financial markets, with the Dow Industrials closing lower, while a better-than-expected US jobs report may have a positive impact on certain companies. Apple is facing challenges in the AI space, but may still be able to compete.",
+      "emerging_narrative": "The US-Iran conflict is escalating, with potential risks and opportunities for companies, including increased volatility in oil markets and challenges in the AI space.",
+      "contrarian_note": "Non-US companies may be the real beneficiaries of the US-Iran conflict",
+      "impact_scores": [],
+      "tags": [
+        "BUSINESS & FINANCE",
+        "Energy",
+        "Tech",
+        "Finance",
+        "AI",
+        "US"
+      ]
+    },
+    {
+      "date": "2026-04-05",
+      "sector": "INDIA POLICY",
+      "headline_themes": [
+        "Iran",
+        "India",
+        "Bushehr",
+        "Gulf",
+        "Trump"
+      ],
+      "expert_summary": "A potential nuclear catastrophe in Iran's Bushehr could harm Gulf countries, while India may emerge as a beneficiary of the US-Iran conflict due to increased oil exports and strategic geopolitical alliances. The US-Iran conflict is escalating, with Trump warning of retaliation and a rescue mission being carried out.",
+      "emerging_narrative": "The US-Iran conflict is escalating, with potential benefits and risks for India, including increased oil exports and investment in defense technologies.",
+      "contrarian_note": "India's infrastructure constraints may limit its ability to capitalize on the US-Iran conflict",
+      "impact_scores": [],
+      "tags": [
+        "INDIA POLICY",
+        "Energy",
+        "Defense",
+        "Finance",
+        "US"
+      ]
+    },
+    {
       "date": "2026-04-04",
       "sector": "BUSINESS & FINANCE",
       "headline_themes": [
