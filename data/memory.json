@@ -2,6 +2,92 @@
   "version": 2,
   "entries": [
     {
+      "date": "2026-04-10",
+      "sector": "INDIA FINANCE",
+      "headline_themes": [
+        "Bitcoin",
+        "Ethereum"
+      ],
+      "expert_summary": "The US software stocks are tumbling due to AI anxiety, while Bitcoin and Ethereum are experiencing market volatility. The global cryptocurrency market capitalization has crossed $4 trillion, showing integration with global financial markets.",
+      "emerging_narrative": "The AI industry is causing anxiety in the US software sector, while the global cryptocurrency market is experiencing integration with global financial markets. The tech sector is experiencing volatility and competition, and AI-focused startups are creating new opportunities.",
+      "contrarian_note": "The decline of US software stocks may actually create opportunities for the Indian government to promote its own software industry, benefiting domestic companies and investors.",
+      "impact_scores": [],
+      "tags": [
+        "INDIA FINANCE",
+        "Tech",
+        "Finance",
+        "Software",
+        "AI",
+        "US"
+      ]
+    },
+    {
+      "date": "2026-04-10",
+      "sector": "TECHNOLOGY",
+      "headline_themes": [
+        "OpenAI",
+        "Florida",
+        "Attorney",
+        "General",
+        "Meta"
+      ],
+      "expert_summary": "OpenAI is facing a probe by the Florida Attorney General over its potential harm to minors and national security, while Meta's new AI model is raising concerns about its ability to make money and disrupt traditional software demand.",
+      "emerging_narrative": "The AI industry is facing increased scrutiny and regulation, while new AI models are emerging and disrupting traditional software demand. The tech sector is experiencing volatility and competition, and AI-focused startups are creating new opportunities.",
+      "contrarian_note": "The increased scrutiny of AI companies may actually benefit smaller, more agile companies that are better equipped to adapt to changing regulatory environments, creating opportunities for specific investors.",
+      "impact_scores": [],
+      "tags": [
+        "TECHNOLOGY",
+        "Tech",
+        "Software",
+        "AI"
+      ]
+    },
+    {
+      "date": "2026-04-10",
+      "sector": "INDIA POLICY",
+      "headline_themes": [
+        "India",
+        "China",
+        "Taiwanese"
+      ],
+      "expert_summary": "India is deepening its ties with the US, while China is engaging with Taiwanese opposition leaders, marking a significant development in the region's geopolitics. India's foreign secretary held high-level interactions with US officials to strengthen bilateral ties.",
+      "emerging_narrative": "India is deepening its ties with the US, while China is engaging with Taiwanese opposition leaders, marking a significant development in the region's geopolitics. The region is experiencing increased tensions and competition between major powers.",
+      "contrarian_note": "India's deepening ties with the US may actually create opportunities for the country to play a key role in mediating between the US and China, benefiting specific companies and investors.",
+      "impact_scores": [],
+      "tags": [
+        "INDIA POLICY",
+        "Diplomacy",
+        "Defense",
+        "Trade",
+        "US",
+        "AI"
+      ]
+    },
+    {
+      "date": "2026-04-10",
+      "sector": "BUSINESS & FINANCE",
+      "headline_themes": [
+        "Iran",
+        "Tech",
+        "Meta",
+        "Canada",
+        "Post",
+        "Trump"
+      ],
+      "expert_summary": "The US-Iran conflict and EU Big Tech fines are disrupting global oil supplies and causing tensions between the US and EU, while Meta's new AI model and Canada Post's insolvency are also making headlines. The Trump administration is clashing with the EU over tech company fines, and the global oil market is facing disruptions. The US jobs report may have a positive impact on certain companies, but the overall market is experiencing concerns due to the escalating US-Iran conflict.",
+      "emerging_narrative": "The US-Iran conflict and EU's actions against US tech companies are causing concerns in the financial markets and leading to increased tensions between the US and EU. The global oil market is facing disruptions, and the tech sector is experiencing volatility due to the emergence of new AI models.",
+      "contrarian_note": "The US-Iran conflict may actually lead to increased oil production and exports through non-US channels, mitigating market disruptions and creating opportunities for specific companies and investors.",
+      "impact_scores": [],
+      "tags": [
+        "BUSINESS & FINANCE",
+        "Energy",
+        "Tech",
+        "Finance",
+        "EU",
+        "US"
+      ]
+    },
+    {
       "date": "2026-04-09",
       "sector": "lenses",
       "headline_themes": [],
