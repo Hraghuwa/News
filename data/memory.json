@@ -2,6 +2,26 @@
   "version": 2,
   "entries": [
     {
+      "date": "2026-04-11",
+      "sector": "BUSINESS & FINANCE",
+      "headline_themes": [
+        "Iran",
+        "Industrials"
+      ],
+      "expert_summary": "The ongoing US-Iran conflict is causing concerns in the financial markets, with the Dow Industrials closing lower, while some sectors such as defense and companies that help navigate complex global supply chains may see a rally. The conflict has also pushed up gasoline and airline fares, contributing to inflation. A better-than-expected US jobs report may have a positive impact on certain companies.",
+      "emerging_narrative": "The US-Iran conflict is creating a complex and dynamic situation in the financial markets, with both positive and negative implications for different sectors and companies.",
+      "contrarian_note": "The US-Iran conflict may inadvertently boost alternative currencies and sanctions compliance firms, despite market fears.",
+      "impact_scores": [],
+      "tags": [
+        "BUSINESS & FINANCE",
+        "Finance",
+        "Energy",
+        "Defense",
+        "Technology",
+        "US"
+      ]
+    },
+    {
       "date": "2026-04-10",
       "sector": "INDIA FINANCE",
       "headline_themes": [
