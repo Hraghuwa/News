@@ -2,6 +2,48 @@
   "version": 2,
   "entries": [
     {
+      "date": "2026-04-12",
+      "sector": "INDIA POLICY",
+      "headline_themes": [
+        "Iran",
+        "Pakistan",
+        "India"
+      ],
+      "expert_summary": "The failure of US-Iran talks in Pakistan may have implications for India's relationships with both countries and its energy imports. India may need to navigate the situation carefully to avoid any negative consequences.",
+      "emerging_narrative": "The failure of US-Iran talks in Pakistan may have implications for India's relationships with both countries and its energy imports, and India may need to navigate the situation carefully.",
+      "contrarian_note": "India's unique position in the US-Iran conflict may allow it to emerge as a key mediator, creating opportunities for Indian diplomacy and international relations firms",
+      "impact_scores": [],
+      "tags": [
+        "INDIA POLICY",
+        "Energy",
+        "Finance",
+        "Diplomacy",
+        "US"
+      ]
+    },
+    {
+      "date": "2026-04-12",
+      "sector": "BUSINESS & FINANCE",
+      "headline_themes": [
+        "Iran",
+        "Industrials",
+        "American",
+        "Strait",
+        "Hormuz"
+      ],
+      "expert_summary": "The ongoing Iran war is causing concerns in the financial markets, with the Dow Industrials closing lower, and the failure to strike a deal between the US and Iran is escalating the situation. The transit of American warships through the Strait of Hormuz may further increase tensions. A potential defense sector rally and the emergence of a multipolar financial system are contrarian views on the situation.",
+      "emerging_narrative": "The ongoing US-Iran conflict is causing concerns in the financial markets and may lead to a shift in the global geopolitical landscape.",
+      "contrarian_note": "The Iran war may be a boon for maritime security firms, as shipping companies seek to protect their vessels from rising tensions",
+      "impact_scores": [],
+      "tags": [
+        "BUSINESS & FINANCE",
+        "Finance",
+        "Energy",
+        "Defense",
+        "US"
+      ]
+    },
+    {
       "date": "2026-04-11",
       "sector": "BUSINESS & FINANCE",
       "headline_themes": [
