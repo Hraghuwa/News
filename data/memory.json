@@ -2,6 +2,48 @@
   "version": 2,
   "entries": [
     {
+      "date": "2026-04-14",
+      "sector": "INDIA POLICY",
+      "headline_themes": [
+        "Philippines",
+        "China",
+        "India",
+        "Middle",
+        "East"
+      ],
+      "expert_summary": "The US and Philippines are planning record military drills amid tensions with China and conflicts in the Middle East, with over 17,000 military personnel participating in the biggest-ever joint drills.",
+      "emerging_narrative": "The US and Philippines are strengthening their military alliance amid tensions with China, which may lead to further escalation in the region, with potential implications for India's own military presence and defense spending.",
+      "contrarian_note": "India may benefit from the US-Philippines military alliance by strengthening its own defense partnerships",
+      "impact_scores": [],
+      "tags": [
+        "INDIA POLICY",
+        "Defense",
+        "Aerospace",
+        "International Trade",
+        "US"
+      ]
+    },
+    {
+      "date": "2026-04-14",
+      "sector": "BUSINESS & FINANCE",
+      "headline_themes": [
+        "Iran",
+        "Industrials",
+        "Islamabad"
+      ],
+      "expert_summary": "The US-Iran conflict is causing concerns in the financial markets, with the Dow Industrials closing lower due to the escalating situation, while maritime security firms may benefit from the rising tensions. The US blockade on Iran has taken effect, with the US team making progress with Iran during the Islamabad talks.",
+      "emerging_narrative": "The US-Iran conflict is escalating, with the US blockade taking effect, and the situation may lead to further tensions between the US and Iran, as well as other nations in the region, with potential implications for global trade and economies.",
+      "contrarian_note": "US-Iran conflict may drive up maritime insurance costs, creating a hidden opportunity for investors",
+      "impact_scores": [],
+      "tags": [
+        "BUSINESS & FINANCE",
+        "Finance",
+        "Energy",
+        "Transportation",
+        "US"
+      ]
+    },
+    {
       "date": "2026-04-13",
       "sector": "lenses",
       "headline_themes": [],
