@@ -2,6 +2,68 @@
   "version": 2,
   "entries": [
     {
+      "date": "2026-04-15",
+      "sector": "TECHNOLOGY",
+      "headline_themes": [
+        "WordPress"
+      ],
+      "expert_summary": "A security breach has been discovered in dozens of WordPress plug-ins, which may have significant implications for website security and data protection. The breach highlights the importance of cybersecurity and the need for vigilance in the tech industry.",
+      "emerging_narrative": "The breach highlights the importance of cybersecurity and the need for vigilance in the tech industry, with potential implications for national security, data protection, and the broader tech ecosystem.",
+      "contrarian_note": "The WordPress security breach may hide an opportunity for decentralized cybersecurity solutions to gain traction",
+      "impact_scores": [],
+      "tags": [
+        "TECHNOLOGY",
+        "Tech",
+        "Cybersecurity",
+        "Data Protection"
+      ]
+    },
+    {
+      "date": "2026-04-15",
+      "sector": "BUSINESS & FINANCE",
+      "headline_themes": [
+        "Iran",
+        "Hormuz",
+        "Strait"
+      ],
+      "expert_summary": "The US-Iran conflict is causing concerns in the financial markets, with the US signaling a diplomatic solution. The situation may lead to market volatility and affect investor sentiment. The blockade of the Hormuz Strait may have significant implications for global trade and energy supplies.",
+      "emerging_narrative": "The US-Iran conflict is leading to a complex and volatile situation in the financial markets, with potential implications for global trade, energy supplies, and regional stability.",
+      "contrarian_note": "The US-Iran conflict may accelerate the transition to renewable energy sources, benefiting companies like Vestas and SunPower",
+      "impact_scores": [],
+      "tags": [
+        "BUSINESS & FINANCE",
+        "Finance",
+        "Energy",
+        "Maritime",
+        "US"
+      ]
+    },
+    {
+      "date": "2026-04-15",
+      "sector": "INDIA POLICY",
+      "headline_themes": [
+        "India",
+        "China",
+        "Saudi",
+        "Arabia",
+        "Taiwan",
+        "Pakistan",
+        "This"
+      ],
+      "expert_summary": "China and Saudi Arabia are taking assertive stances in regional geopolitics, with China warning the US over Taiwan and Saudi Arabia providing financial support to Pakistan. This may have implications for India's relationships with these countries and its regional influence. India may need to navigate these situations carefully to maintain its strategic interests.",
+      "emerging_narrative": "The complex web of alliances and rivalries in the region is leading to a delicate balancing act for India, with potential implications for its foreign policy, economy, and regional influence.",
+      "contrarian_note": "India's geopolitical challenges may hide opportunities for defense and cybersecurity companies to thrive",
+      "impact_scores": [],
+      "tags": [
+        "INDIA POLICY",
+        "Finance",
+        "Energy",
+        "Geopolitics",
+        "VC",
+        "US"
+      ]
+    },
+    {
       "date": "2026-04-14",
       "sector": "INDIA POLICY",
       "headline_themes": [
