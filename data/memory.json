@@ -2,6 +2,51 @@
   "version": 2,
   "entries": [
     {
+      "date": "2026-04-16",
+      "sector": "INDIA POLICY",
+      "headline_themes": [
+        "India",
+        "Iran",
+        "Israel",
+        "Lebanon"
+      ],
+      "expert_summary": "The US is pushing for talks between Israel and Lebanon, which could potentially ease tensions in the region, and India's unique position between Iran and Israel could become a hidden catalyst for its economic growth.",
+      "emerging_narrative": "India's unique position between Iran and Israel could become a hidden catalyst for its economic growth, as it could potentially broker a peace deal or provide alternative energy sources to the region.",
+      "contrarian_note": "India's diplomatic efforts in the Middle East could backfire, but its energy sector could still emerge as a winner",
+      "impact_scores": [],
+      "tags": [
+        "INDIA POLICY",
+        "Finance",
+        "Energy",
+        "Tech",
+        "US"
+      ]
+    },
+    {
+      "date": "2026-04-16",
+      "sector": "BUSINESS & FINANCE",
+      "headline_themes": [
+        "Iran",
+        "Middle",
+        "East",
+        "Industrials",
+        "China",
+        "Israel",
+        "Lebanon"
+      ],
+      "expert_summary": "The ongoing Iran war is affecting global financial markets, with the Dow Industrials closing lower, while China's economic growth has accelerated to 5% in the first quarter, but the Iran war clouds the outlook. The US is pushing for talks between Israel and Lebanon, which could potentially ease tensions in the region.",
+      "emerging_narrative": "The Iran war is causing a ripple effect in the global financial markets, with potential implications for the emergence of a multipolar financial system and a shift in power dynamics in the Middle East.",
+      "contrarian_note": "Iran's war-torn economy could unexpectedly emerge as a dark horse in the multipolar financial system",
+      "impact_scores": [],
+      "tags": [
+        "BUSINESS & FINANCE",
+        "Finance",
+        "Energy",
+        "Tech",
+        "US"
+      ]
+    },
+    {
       "date": "2026-04-15",
       "sector": "TECHNOLOGY",
       "headline_themes": [
