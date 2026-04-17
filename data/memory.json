@@ -2,6 +2,33 @@
   "version": 2,
   "entries": [
     {
+      "date": "2026-04-17",
+      "sector": "BUSINESS & FINANCE",
+      "headline_themes": [
+        "Iran",
+        "Industrials",
+        "President",
+        "Trump",
+        "China",
+        "Contrarian"
+      ],
+      "expert_summary": "The ongoing US-Iran conflict is affecting global financial markets, with the Dow Industrials closing lower, while President Trump predicts the war will end soon. China's economic growth has accelerated to 5% in the first quarter, despite the Iran war's impact on global markets. Contrarian views suggest Iran's war-torn economy could emerge as a dark horse in the multipolar financial system.",
+      "emerging_narrative": "The US-Iran conflict is causing concerns in global financial markets, but there are potential opportunities for companies that can navigate complex global supply chains and mitigate disruptions. The situation remains volatile, with potential implications for global alliance shifts and sanctions.",
+      "contrarian_note": "Iran's experience in navigating sanctions could position it as a hub for sanctions-resilient financial innovation",
+      "impact_scores": [],
+      "tags": [
+        "BUSINESS & FINANCE",
+        "Finance",
+        "Energy",
+        "Defense",
+        "Cybersecurity",
+        "AI",
+        "US",
+        "RBI",
+        "SEBI"
+      ]
+    },
+    {
       "date": "2026-04-16",
       "sector": "INDIA POLICY",
       "headline_themes": [
