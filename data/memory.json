@@ -2,6 +2,78 @@
   "version": 2,
   "entries": [
     {
+      "date": "2026-04-18",
+      "sector": "INDIA FINANCE",
+      "headline_themes": [
+        "Indian",
+        "Bitcoin",
+        "India",
+        "Small",
+        "Finance",
+        "Bank",
+        "ICICI"
+      ],
+      "expert_summary": "India's banking sector has concluded FY26 strongly, with credit growth hitting 16.1% and deposits surging 13.5%. Bitcoin's climb past $75,000 faces skepticism from leveraged traders, and AU Small Finance Bank and ICICI Bank are top picks in the banking sector.",
+      "emerging_narrative": "The Indian banking sector is experiencing strong growth, with credit growth hitting 16.1% and deposits surging 13.5%. The skepticism surrounding Bitcoin's climb may create opportunities for investors to short the cryptocurrency.",
+      "contrarian_note": "India's strong banking sector growth may be hiding underlying issues with credit quality, creating opportunities for investors to short certain banks and long companies focused on financial inclusion.",
+      "impact_scores": [],
+      "tags": [
+        "INDIA FINANCE",
+        "Finance",
+        "Tech",
+        "US",
+        "RBI"
+      ]
+    },
+    {
+      "date": "2026-04-18",
+      "sector": "TECHNOLOGY",
+      "headline_themes": [
+        "OpenAI",
+        "Stripe",
+        "Airwallex",
+        "Kevin",
+        "Weil",
+        "Bill",
+        "Peebles"
+      ],
+      "expert_summary": "OpenAI is pivoting away from consumer moonshots toward enterprise AI, with Kevin Weil and Bill Peebles exiting the company. Stripe and Airwallex are now competing with each other, after previously operating in different geographies.",
+      "emerging_narrative": "The technology industry is experiencing a shift towards enterprise AI, with companies like OpenAI pivoting away from consumer moonshots. The competition between Stripe and Airwallex may drive innovation in the payments industry.",
+      "contrarian_note": "The shift towards enterprise AI may create opportunities for new companies to emerge and innovate in the consumer AI space.",
+      "impact_scores": [],
+      "tags": [
+        "TECHNOLOGY",
+        "Tech",
+        "Finance",
+        "AI",
+        "US"
+      ]
+    },
+    {
+      "date": "2026-04-18",
+      "sector": "BUSINESS & FINANCE",
+      "headline_themes": [
+        "Iran",
+        "Nasdaq",
+        "However",
+        "Strait",
+        "Hormuz"
+      ],
+      "expert_summary": "The US-Iran conflict is causing market fluctuations, while the Fed is keeping interest rates on hold due to labor market risks. The S&P 500 has closed above 7,100, and the Nasdaq has posted its longest win streak since 1992. However, the Strait of Hormuz remains effectively closed, despite Iran's declaration that it is open.",
+      "emerging_narrative": "The US-Iran conflict is causing market fluctuations and creating opportunities for companies that can mitigate market disruptions. The conflict may also lead to increased oil production and exports through non-US channels, mitigating market disruptions.",
+      "contrarian_note": "The US-Iran conflict may ultimately benefit China by increasing its influence in the Middle East and securing oil imports.",
+      "impact_scores": [],
+      "tags": [
+        "BUSINESS & FINANCE",
+        "Energy",
+        "Finance",
+        "Tech",
+        "US",
+        "AI",
+        "EU"
+      ]
+    },
+    {
       "date": "2026-04-17",
       "sector": "BUSINESS & FINANCE",
       "headline_themes": [
