@@ -2,6 +2,68 @@
   "version": 2,
   "entries": [
     {
+      "date": "2026-04-19",
+      "sector": "INDIA POLICY",
+      "headline_themes": [
+        "Iran",
+        "India",
+        "Tensions",
+        "Israel"
+      ],
+      "expert_summary": "Tensions are escalating between the US, Israel, and Iran, with potential implications for India's relationships with these countries and its own economic growth.",
+      "emerging_narrative": "The US-Iran conflict is causing significant disruptions to global geopolitics, with potential implications for India's relationships, economic growth, and national security.",
+      "contrarian_note": "India may be able to navigate the complex geopolitical landscape and emerge as a key player in regional trade and diplomacy, benefiting from the US-Iran conflict",
+      "impact_scores": [],
+      "tags": [
+        "INDIA POLICY",
+        "Finance",
+        "Trade",
+        "Defense",
+        "US"
+      ]
+    },
+    {
+      "date": "2026-04-19",
+      "sector": "TECHNOLOGY",
+      "headline_themes": [
+        "Cerebras",
+        "Amazon",
+        "Services",
+        "OpenAI"
+      ],
+      "expert_summary": "AI chip startup Cerebras has filed for IPO, following recent agreements with Amazon Web Services and OpenAI, marking a significant development in the AI infrastructure space.",
+      "emerging_narrative": "The development of AI technologies is accelerating, with significant implications for the tech sector, geopolitical power dynamics, and the future of work.",
+      "contrarian_note": "The development of AI chip technology has significant implications for geopolitical power dynamics, and may not be as benign as it seems",
+      "impact_scores": [],
+      "tags": [
+        "TECHNOLOGY",
+        "Tech",
+        "Finance",
+        "IPO",
+        "AI"
+      ]
+    },
+    {
+      "date": "2026-04-19",
+      "sector": "BUSINESS & FINANCE",
+      "headline_themes": [
+        "Iran",
+        "Strait",
+        "Hormuz"
+      ],
+      "expert_summary": "The ongoing US-Iran conflict is causing significant fluctuations in global financial markets, with the Strait of Hormuz being closed again, affecting trade and oil imports. The conflict is also impacting interest rates, with the Fed keeping them on hold due to labor market risks. Iran's experience in navigating sanctions could position it as a hub for sanctions-resilient financial innovation.",
+      "emerging_narrative": "The US-Iran conflict is causing significant disruptions to global trade and financial markets, with potential long-term implications for the multipolar financial system.",
+      "contrarian_note": "Iran's experience in navigating sanctions could position it as a hub for sanctions-resilient financial innovation, threatening US dollar dominance",
+      "impact_scores": [],
+      "tags": [
+        "BUSINESS & FINANCE",
+        "Finance",
+        "Energy",
+        "Trade",
+        "US"
+      ]
+    },
+    {
       "date": "2026-04-18",
       "sector": "INDIA FINANCE",
       "headline_themes": [
