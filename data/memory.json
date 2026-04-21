@@ -2,6 +2,46 @@
   "version": 2,
   "entries": [
     {
+      "date": "2026-04-21",
+      "sector": "BUSINESS & FINANCE",
+      "headline_themes": [
+        "Apple",
+        "However",
+        "Cook",
+        "John",
+        "Ternus"
+      ],
+      "expert_summary": "Tim Cook is stepping down as Apple CEO, with John Ternus taking over, in a move that is expected to have minimal impact on the company's financial performance. The transition is seen as a natural succession, with Cook assuming the role of executive chairman.",
+      "emerging_narrative": "The leadership change at Apple is seen as a natural succession, with minimal impact expected on the company's financial performance. However, the change may lead to new opportunities for innovation and growth.",
+      "contrarian_note": "The new Apple CEO may usher in a era of aggressive investments and acquisitions, disrupting the tech industry",
+      "impact_scores": [],
+      "tags": [
+        "BUSINESS & FINANCE",
+        "Finance",
+        "Tech",
+        "VC"
+      ]
+    },
+    {
+      "date": "2026-04-21",
+      "sector": "TECHNOLOGY",
+      "headline_themes": [
+        "Apple",
+        "Cook",
+        "John",
+        "Ternus"
+      ],
+      "expert_summary": "Tim Cook is stepping down as Apple CEO, with John Ternus taking over, marking the end of a significant era for the company. Cook leaves behind a $4 trillion business with a lasting legacy. The transition is expected to be smooth, with Cook assuming the role of executive chairman.",
+      "emerging_narrative": "The changing of the guard at Apple marks a significant moment in the company's history, with potential implications for its future direction and innovation pipeline.",
+      "contrarian_note": "The Apple CEO transition may create a supply chain disruption opportunity for investors",
+      "impact_scores": [],
+      "tags": [
+        "TECHNOLOGY",
+        "Tech",
+        "VC"
+      ]
+    },
+    {
       "date": "2026-04-20",
       "sector": "lenses",
       "headline_themes": [],
