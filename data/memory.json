@@ -2,6 +2,74 @@
   "version": 2,
   "entries": [
     {
+      "date": "2026-04-25",
+      "sector": "INDIA FINANCE",
+      "headline_themes": [
+        "Indian",
+        "JPMorgan",
+        "India"
+      ],
+      "expert_summary": "JPMorgan has downgraded the Indian stock market to neutral from overweight, citing high valuations, earnings risks, and limited tech exposure, which may have implications for India's economic growth and foreign investment.",
+      "emerging_narrative": "The Indian stock market is facing challenges, including high valuations and limited tech exposure, which may have implications for the country's economic growth and foreign investment.",
+      "contrarian_note": "India's economic growth may be driven by domestic factors, making it less vulnerable to foreign investor sentiment",
+      "impact_scores": [],
+      "tags": [
+        "INDIA FINANCE",
+        "Finance",
+        "Tech"
+      ]
+    },
+    {
+      "date": "2026-04-25",
+      "sector": "TECHNOLOGY",
+      "headline_themes": [
+        "Palantir",
+        "Cohere",
+        "German",
+        "Lachy",
+        "Groom",
+        "Indian"
+      ],
+      "expert_summary": "Palantir is helping the IRS investigate financial crimes, while Cohere is merging with a German startup to create a transatlantic AI powerhouse, and Lachy Groom is investing in an Indian startup, indicating a growing interest in AI technology and its applications.",
+      "emerging_narrative": "The AI industry is experiencing a period of rapid growth and consolidation, with potential implications for data privacy, security, and international cooperation.",
+      "contrarian_note": "The AI consolidation trend may stifle innovation and create unintended risks, benefiting smaller players",
+      "impact_scores": [],
+      "tags": [
+        "TECHNOLOGY",
+        "Tech",
+        "Finance",
+        "AI",
+        "IRS"
+      ]
+    },
+    {
+      "date": "2026-04-25",
+      "sector": "BUSINESS & FINANCE",
+      "headline_themes": [
+        "Iran",
+        "Google",
+        "Anthropic",
+        "Nvidia",
+        "Wall",
+        "Street",
+        "Canada",
+        "Post"
+      ],
+      "expert_summary": "The US-Iran conflict and tech investments are impacting global markets, with Google investing in Anthropic and Nvidia's stock reaching a record high, while Wall Street banks prepare to sell billions of dollars of debt and Canada provides financing to Canada Post to avoid insolvency. The ongoing situation is causing concerns in the financial markets, with the Dow Industrials closing lower. The US-Iran conflict may lead to increased oil production and exports through non-US channels, mitigating ma",
+      "emerging_narrative": "The intersection of geopolitics, technology, and finance is creating a complex landscape, with potential opportunities and risks for investors and companies alike.",
+      "contrarian_note": "The US-Iran conflict may be a boon for non-US oil producers, mitigating the impact on global markets",
+      "impact_scores": [],
+      "tags": [
+        "BUSINESS & FINANCE",
+        "Energy",
+        "Tech",
+        "Finance",
+        "AI",
+        "US",
+        "EU"
+      ]
+    },
+    {
       "date": "2026-04-24",
       "sector": "lenses",
       "headline_themes": [],
