@@ -2,6 +2,49 @@
   "version": 2,
   "entries": [
     {
+      "date": "2026-04-26",
+      "sector": "INDIA POLICY",
+      "headline_themes": [
+        "White",
+        "House",
+        "Washington",
+        "Hilton",
+        "Ronald",
+        "Reagan"
+      ],
+      "expert_summary": "The recent White House press dinner shooting and historical security incidents at the Washington Hilton have raised concerns over presidential safety and security protocols. The article draws parallels between the 1981 assassination attempt on Ronald Reagan and the 2026 White House dinner shooting.",
+      "emerging_narrative": "The incident highlights the importance of security protocols and measures to protect high-profile events and individuals, with potential implications for investment in security technologies and services.",
+      "contrarian_note": "India could emerge as a beneficiary of the US-Iran conflict by strengthening its trade ties with Iran, creating a lucrative opportunity for Indian exporters",
+      "impact_scores": [],
+      "tags": [
+        "INDIA POLICY",
+        "Security",
+        "Technology"
+      ]
+    },
+    {
+      "date": "2026-04-26",
+      "sector": "BUSINESS & FINANCE",
+      "headline_themes": [
+        "Iran",
+        "White",
+        "House",
+        "Chair"
+      ],
+      "expert_summary": "The ongoing US-Iran conflict and recent White House press dinner shooting are causing concerns in global financial markets, with potential implications for US monetary policy and international relations. The situation is being closely watched by investors and policymakers. The Fed Chair's decision on whether to stay or leave could have significant ramifications for the US economy.",
+      "emerging_narrative": "The ongoing US-Iran conflict and geopolitical tensions are leading to increased uncertainty and volatility in global financial markets, with potential implications for international relations and economic growth.",
+      "contrarian_note": "The US-Iran conflict could inadvertently boost Iran's cryptocurrency adoption, creating a lucrative opportunity for investors",
+      "impact_scores": [],
+      "tags": [
+        "BUSINESS & FINANCE",
+        "Finance",
+        "Energy",
+        "Defense",
+        "US",
+        "FX"
+      ]
+    },
+    {
       "date": "2026-04-25",
       "sector": "INDIA FINANCE",
       "headline_themes": [
