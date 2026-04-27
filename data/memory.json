@@ -2,6 +2,48 @@
   "version": 2,
   "entries": [
     {
+      "date": "2026-04-27",
+      "sector": "BUSINESS & FINANCE",
+      "headline_themes": [
+        "Global",
+        "White",
+        "House"
+      ],
+      "expert_summary": "A recent shooting incident at the White House press dinner has raised concerns about security protocols and potential implications for global financial markets. The incident may lead to increased volatility in the markets and potentially impact US monetary policy.",
+      "emerging_narrative": "Global events, such as the shooting incident at the White House press dinner, are increasingly having significant implications for financial markets and geopolitical relationships.",
+      "contrarian_note": "The White House shooting incident may accelerate demand for privacy-focused technologies, rather than just increasing market volatility",
+      "impact_scores": [],
+      "tags": [
+        "BUSINESS & FINANCE",
+        "Finance",
+        "Security",
+        "Technology",
+        "US"
+      ]
+    },
+    {
+      "date": "2026-04-27",
+      "sector": "INDIA POLICY",
+      "headline_themes": [
+        "Indian",
+        "India",
+        "Pharma",
+        "Organon",
+        "This"
+      ],
+      "expert_summary": "India's pharmaceutical company Sun Pharma is acquiring US drugmaker Organon for $11.75 billion, expanding its presence in the global market. This deal is part of a larger trend of Indian companies making significant outbound acquisitions. The Indian government's policies and regulatory environment are likely to play a crucial role in shaping the country's M&A landscape.",
+      "emerging_narrative": "Indian companies are increasingly looking to expand their global presence through strategic acquisitions, with potential implications for the country's economic growth and relationships with other nations.",
+      "contrarian_note": "India's pharmaceutical growth may be hindered by over-reliance on foreign acquisitions rather than domestic innovation",
+      "impact_scores": [],
+      "tags": [
+        "INDIA POLICY",
+        "Pharmaceuticals",
+        "Healthcare",
+        "Finance",
+        "US"
+      ]
+    },
+    {
       "date": "2026-04-26",
       "sector": "INDIA POLICY",
       "headline_themes": [
