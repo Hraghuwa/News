@@ -2,6 +2,44 @@
   "version": 2,
   "entries": [
     {
+      "date": "2026-04-29",
+      "sector": "BUSINESS & FINANCE",
+      "headline_themes": [],
+      "expert_summary": "The Fed is expected to continue its cautious approach in its latest interest rate decision, which will be closely watched by the market. The decision will have implications for the global economy, and the market will be driven by the earnings performance and policy signals. The big tech earnings will also be closely watched, as they will provide insights into the global demand for tech products and services.",
+      "emerging_narrative": "The global economy is becoming increasingly interconnected, and the Fed's decision will have significant implications for the global market.",
+      "contrarian_note": "The European Central Bank's next move could be the real wild card in the global monetary policy landscape",
+      "impact_scores": [],
+      "tags": [
+        "BUSINESS & FINANCE",
+        "Finance",
+        "Tech",
+        "AI",
+        "US",
+        "RBI"
+      ]
+    },
+    {
+      "date": "2026-04-29",
+      "sector": "INDIA FINANCE",
+      "headline_themes": [
+        "Indian",
+        "Wall",
+        "Street"
+      ],
+      "expert_summary": "The Indian market is awaiting cues from Wall Street, where big tech earnings and the Fed's interest rate decision are expected to drive market movements. The tech earnings will be closely watched, especially with AI investments under scrutiny. The Fed's decision will also have implications for the Indian market, as it will influence global monetary policy.",
+      "emerging_narrative": "The Indian market is becoming increasingly integrated with the global market, and the Fed's decision will have significant implications for the Indian economy.",
+      "contrarian_note": "A stronger Indian rupee could be a blessing in disguise for the country's export-driven economy",
+      "impact_scores": [],
+      "tags": [
+        "INDIA FINANCE",
+        "Finance",
+        "Tech",
+        "AI",
+        "US",
+        "RBI"
+      ]
+    },
+    {
       "date": "2026-04-28",
       "sector": "BUSINESS & FINANCE",
       "headline_themes": [
