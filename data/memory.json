@@ -2,6 +2,49 @@
   "version": 2,
   "entries": [
     {
+      "date": "2026-04-30",
+      "sector": "BUSINESS & FINANCE",
+      "headline_themes": [
+        "Middle",
+        "East",
+        "Brent",
+        "Iran",
+        "This",
+        "India"
+      ],
+      "expert_summary": "Brent crude has surged to a 4-year high, exceeding $126, due to the Middle East conflict and potential US military action against Iran, leading to supply chain disruptions and increased prices. This development may have significant implications for global economies and financial markets. The oil price shock may also affect India's economy and energy sector.",
+      "emerging_narrative": "The Middle East conflict and oil price surge are leading to increased uncertainty and volatility in global markets, with potential implications for economies, financial markets, and the energy sector.",
+      "contrarian_note": "The oil price surge may be a blessing in disguise for certain industries, and savvy investors can profit from the chaos",
+      "impact_scores": [],
+      "tags": [
+        "BUSINESS & FINANCE",
+        "Energy",
+        "Finance",
+        "Tech",
+        "US"
+      ]
+    },
+    {
+      "date": "2026-04-30",
+      "sector": "TECHNOLOGY",
+      "headline_themes": [
+        "Anthropic",
+        "Claude",
+        "This"
+      ],
+      "expert_summary": "Anthropic, the maker of Claude, is in talks to raise a new $50B round at a valuation of $900B, indicating high investor confidence in the AI infrastructure space. This development could further disrupt the tech industry and create new opportunities for innovation. The funding round's success may also have implications for the broader AI ecosystem.",
+      "emerging_narrative": "The AI infrastructure space is experiencing rapid growth, driven by investor confidence and demand for innovative solutions, with potential implications for the broader tech industry and global markets.",
+      "contrarian_note": "Anthropic's $900B valuation may be a bubble waiting to burst, while smaller AI players hold the real key to innovation",
+      "impact_scores": [],
+      "tags": [
+        "TECHNOLOGY",
+        "Tech",
+        "Finance",
+        "AI",
+        "US"
+      ]
+    },
+    {
       "date": "2026-04-29",
       "sector": "BUSINESS & FINANCE",
       "headline_themes": [],
