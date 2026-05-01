@@ -2,6 +2,46 @@
   "version": 2,
   "entries": [
     {
+      "date": "2026-05-01",
+      "sector": "BUSINESS & FINANCE",
+      "headline_themes": [
+        "Iran",
+        "White",
+        "House",
+        "This"
+      ],
+      "expert_summary": "Oil prices have risen following the White House's announcement that a ceasefire in Iran has halted the 60-day war deadline. This development has significant implications for the global economy, particularly in the energy sector. The ceasefire may lead to increased stability in the region and reduced volatility in the oil markets.",
+      "emerging_narrative": "The global economy is experiencing increased volatility due to geopolitical tensions and trade wars, but the ceasefire in Iran may lead to increased stability in the oil markets and reduced volatility in the energy sector.",
+      "contrarian_note": "The Iran ceasefire is a temporary Band-Aid on a deeply wounded region, and investors should prepare for a potential oil price explosion",
+      "impact_scores": [],
+      "tags": [
+        "BUSINESS & FINANCE",
+        "Energy",
+        "Finance",
+        "US"
+      ]
+    },
+    {
+      "date": "2026-05-01",
+      "sector": "TECHNOLOGY",
+      "headline_themes": [
+        "However",
+        "Anthropic",
+        "This"
+      ],
+      "expert_summary": "Anthropic, a leading AI company, is in talks to raise a new funding round at a valuation of over $900B, indicating high investor confidence in the AI infrastructure space. This development could further disrupt the tech industry and solidify Anthropic's position as a major player. However, some experts warn that this valuation may be a bubble waiting to burst.",
+      "emerging_narrative": "The AI infrastructure space is experiencing rapid growth and investment, driven by the potential for AI to disrupt various industries and the geopolitical landscape. However, there are concerns about the sustainability of this growth and the potential for a bubble burst.",
+      "contrarian_note": "Anthropic's soaring valuation may be a house of cards, built on unstable AI foundations that could collapse and take the tech industry with it",
+      "impact_scores": [],
+      "tags": [
+        "TECHNOLOGY",
+        "Tech",
+        "Finance",
+        "AI",
+        "US"
+      ]
+    },
+    {
       "date": "2026-04-30",
       "sector": "BUSINESS & FINANCE",
       "headline_themes": [
