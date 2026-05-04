@@ -2,6 +2,49 @@
   "version": 2,
   "entries": [
     {
+      "date": "2026-05-04",
+      "sector": "INDIA POLICY",
+      "headline_themes": [
+        "India",
+        "Arcadia",
+        "Lake",
+        "Edmond",
+        "Oklahoma",
+        "However"
+      ],
+      "expert_summary": "A mass shooting at Arcadia Lake campground in Edmond, Oklahoma, has left several victims, but the article's relevance to India policy is unclear. However, it may be related to discussions around public safety, gun control, or international cooperation on law enforcement.",
+      "emerging_narrative": "The need for increased public safety measures and international cooperation on law enforcement, potentially influencing India's approach to these issues.",
+      "contrarian_note": "The US mass shooting could be a catalyst for India to re-evaluate its gun control laws and public safety measures, creating opportunities for Indian companies in the security sector",
+      "impact_scores": [],
+      "tags": [
+        "INDIA POLICY",
+        "Public Safety",
+        "Law Enforcement",
+        "International Relations",
+        "VC",
+        "US"
+      ]
+    },
+    {
+      "date": "2026-05-04",
+      "sector": "BUSINESS & FINANCE",
+      "headline_themes": [
+        "GameStop",
+        "Amazon",
+        "This"
+      ],
+      "expert_summary": "GameStop has made a surprise $56 billion offer to acquire eBay, aiming to rival Amazon in the e-commerce space. This move could lead to significant market volatility and potential disruption in the retail industry. The deal's success is uncertain, with various factors at play, including regulatory approval and eBay's response.",
+      "emerging_narrative": "The emergence of unexpected players in the e-commerce space, potentially disrupting traditional retail industry dynamics.",
+      "contrarian_note": "GameStop's eBay acquisition is not just about market share, but about leveraging eBay's logistics to take on Amazon's fulfillment dominance",
+      "impact_scores": [],
+      "tags": [
+        "BUSINESS & FINANCE",
+        "Retail",
+        "Tech",
+        "Finance"
+      ]
+    },
+    {
       "date": "2026-05-03",
       "sector": "BUSINESS & FINANCE",
       "headline_themes": [
