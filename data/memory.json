@@ -2,6 +2,46 @@
   "version": 2,
   "entries": [
     {
+      "date": "2026-05-05",
+      "sector": "TECHNOLOGY",
+      "headline_themes": [
+        "CopyFail",
+        "Linux"
+      ],
+      "expert_summary": "A severe bug known as CopyFail is affecting major versions of Linux, posing a major risk to servers and data centers, with the US government warning of active hacking campaigns exploiting the vulnerability. The bug may have significant implications for cybersecurity and data protection.",
+      "emerging_narrative": "The CopyFail bug is highlighting the importance of cybersecurity and the potential risks and implications of vulnerabilities in critical software systems, with significant implications for the tech sector and global cybersecurity landscape.",
+      "contrarian_note": "The CopyFail bug highlights the potential for open-source software to drive cybersecurity innovation, making it a contrarian investment opportunity.",
+      "impact_scores": [],
+      "tags": [
+        "TECHNOLOGY",
+        "Technology",
+        "Cybersecurity",
+        "Government"
+      ]
+    },
+    {
+      "date": "2026-05-05",
+      "sector": "BUSINESS & FINANCE",
+      "headline_themes": [
+        "Iran",
+        "Strait",
+        "Hormuz"
+      ],
+      "expert_summary": "The ongoing US-Iran conflict is causing significant fluctuations in global financial markets, with the attack on the UAE and the Strait of Hormuz closure affecting trade and oil imports, leading to market volatility and concerns over investor sentiment. The situation may lead to increased oil prices and a shift in global trade patterns. The conflict is also impacting the business and finance sector, with disruptions in air travel and investing environment.",
+      "emerging_narrative": "The US-Iran conflict is creating a complex and volatile global economic landscape, with significant implications for trade, energy, and financial markets, and potential opportunities for innovation and disruption in the renewable energy and maritime security sectors.",
+      "contrarian_note": "The US-Iran conflict could create a trade boom for India, making it a contrarian investment opportunity.",
+      "impact_scores": [],
+      "tags": [
+        "BUSINESS & FINANCE",
+        "Energy",
+        "Finance",
+        "Transportation",
+        "US",
+        "UAE",
+        "RBI"
+      ]
+    },
+    {
       "date": "2026-05-04",
       "sector": "INDIA POLICY",
       "headline_themes": [
