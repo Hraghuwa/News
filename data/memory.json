@@ -2,6 +2,89 @@
   "version": 2,
   "entries": [
     {
+      "date": "2026-05-07",
+      "sector": "INDIA FINANCE",
+      "headline_themes": [
+        "However",
+        "Middle",
+        "East",
+        "Space",
+        "HawkEye"
+      ],
+      "expert_summary": "The US stock market is ignoring geopolitical tensions and focusing on robust corporate earnings and the excitement around artificial intelligence. Space-tech firm HawkEye 360 has raised $416 million in its US IPO.",
+      "emerging_narrative": "The US stock market is seeing increased investment in space-tech and AI companies, and is ignoring geopolitical tensions. However, the conflict in the Middle East could have an impact on the market in the future.",
+      "contrarian_note": "The US-Iran conflict is a wake-up call for India to reduce its dependence on oil imports and invest in renewable energy, creating a buying opportunity in domestic renewable energy stocks.",
+      "impact_scores": [],
+      "tags": [
+        "INDIA FINANCE",
+        "Finance",
+        "Tech",
+        "US",
+        "AI"
+      ]
+    },
+    {
+      "date": "2026-05-07",
+      "sector": "TECHNOLOGY",
+      "headline_themes": [
+        "However",
+        "Barry",
+        "Diller"
+      ],
+      "expert_summary": "The development of AGI is an unpredictable force that needs guardrails, according to Barry Diller. The AI economy is also facing challenges such as chip shortages and orbital data centers.",
+      "emerging_narrative": "The development of AGI is an exciting but unpredictable area, with many investors looking to invest in companies working on AGI. However, the development of AGI also has geopolitical implications and needs to be developed in a responsible and safe manner.",
+      "contrarian_note": "AGI is a game-changer for traditional industries, and companies that fail to adapt will be left behind, creating a buying opportunity in AGI-focused stocks.",
+      "impact_scores": [],
+      "tags": [
+        "TECHNOLOGY",
+        "Tech",
+        "Finance",
+        "AGI",
+        "US"
+      ]
+    },
+    {
+      "date": "2026-05-07",
+      "sector": "INDIA POLICY",
+      "headline_themes": [
+        "India",
+        "Russia",
+        "Kyiv"
+      ],
+      "expert_summary": "Russia is urging foreigners to leave Kyiv due to the threat of a retaliatory strike, but this has no direct impact on India's policy. India's policy is focused on maintaining good relations with both Russia and the US.",
+      "emerging_narrative": "India is trying to maintain good relations with both Russia and the US, and is unlikely to be impacted by the conflict.",
+      "contrarian_note": "India's neutrality in the US-Russia conflict is a fragile strategy, and the country must develop a more diversified trade policy to mitigate risks.",
+      "impact_scores": [],
+      "tags": [
+        "INDIA POLICY",
+        "Energy",
+        "Foreign Policy",
+        "US"
+      ]
+    },
+    {
+      "date": "2026-05-07",
+      "sector": "BUSINESS & FINANCE",
+      "headline_themes": [
+        "Iran",
+        "However",
+        "Despite",
+        "Shell",
+        "Equinor"
+      ],
+      "expert_summary": "The ongoing US-Iran conflict is causing supply chain disruptions, leading to a surge in oil prices and impacting global financial markets. Despite the uncertainty, some companies like Shell and Equinor are seeing profit boosts due to the energy pivot. The conflict is also affecting the travel industry, with a potential jet fuel shortage looming.",
+      "emerging_narrative": "The US-Iran conflict is causing a shift in global power dynamics and leading to increased investment in renewable energy and clean tech. However, the conflict is also causing supply chain disruptions and impacting the travel industry.",
+      "contrarian_note": "The US-Iran conflict is accelerating the energy transition, creating a buying opportunity in renewable energy stocks.",
+      "impact_scores": [],
+      "tags": [
+        "BUSINESS & FINANCE",
+        "Energy",
+        "Finance",
+        "Travel",
+        "US"
+      ]
+    },
+    {
       "date": "2026-05-06",
       "sector": "lenses",
       "headline_themes": [],
