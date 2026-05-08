@@ -2,6 +2,45 @@
   "version": 2,
   "entries": [
     {
+      "date": "2026-05-08",
+      "sector": "INDIA POLICY",
+      "headline_themes": [
+        "India",
+        "Pakistan",
+        "Indian"
+      ],
+      "expert_summary": "Pakistan's ISI has been allegedly involved in planning attacks on Indian targets, including a temple, a dhaba, and a military camp, revealing a continued threat to India's national security. The incident highlights the need for India to remain vigilant and take measures to prevent such attacks.",
+      "emerging_narrative": "The incident is part of a larger pattern of ongoing tensions and conflict between India and Pakistan, with potential implications for regional stability and security.",
+      "contrarian_note": "India's focus on Pakistan may be distracting from its own internal security vulnerabilities, creating opportunities for counter-terrorism investments",
+      "impact_scores": [],
+      "tags": [
+        "INDIA POLICY",
+        "Defense",
+        "Finance",
+        "Technology"
+      ]
+    },
+    {
+      "date": "2026-05-08",
+      "sector": "BUSINESS & FINANCE",
+      "headline_themes": [
+        "Iran",
+        "Strait",
+        "Hormuz"
+      ],
+      "expert_summary": "The US-Iran conflict is escalating with a trade of fire in the Strait of Hormuz, causing concerns in the financial markets and potentially affecting global trade and oil imports. The situation may lead to market volatility and affect investor sentiment. The conflict could also accelerate the transition to renewable energy sources.",
+      "emerging_narrative": "The US-Iran conflict is creating a complex and volatile geopolitical environment, with potential implications for global trade, energy markets, and financial stability.",
+      "contrarian_note": "China may emerge as the real winner from the US-Iran conflict, securing oil imports and increasing its Middle East influence",
+      "impact_scores": [],
+      "tags": [
+        "BUSINESS & FINANCE",
+        "Energy",
+        "Finance",
+        "Defense",
+        "US"
+      ]
+    },
+    {
       "date": "2026-05-07",
       "sector": "INDIA FINANCE",
       "headline_themes": [
