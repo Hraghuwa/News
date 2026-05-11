@@ -2,6 +2,33 @@
   "version": 2,
   "entries": [
     {
+      "date": "2026-05-11",
+      "sector": "BUSINESS & FINANCE",
+      "headline_themes": [
+        "Middle",
+        "East",
+        "Iran",
+        "European",
+        "Central",
+        "Bank",
+        "China",
+        "Tehran"
+      ],
+      "expert_summary": "The Middle East conflict is escalating with Iran refusing to back down, leading to prolonged supply chain disruptions and increased oil prices, while the global economy awaits the Fed's interest rate decision. The conflict is affecting global financial markets, and the European Central Bank's next move is seen as a wild card. The situation is also being closely watched by China, which is being asked to lean on Tehran to reopen the strait.",
+      "emerging_narrative": "The Middle East conflict is leading to a complex and interconnected set of economic and geopolitical implications, with the potential for significant impacts on global financial markets, trade, and economic growth.",
+      "contrarian_note": "Russia may emerge as the unexpected beneficiary of the Middle East conflict, as it increases oil production to fill the supply gap.",
+      "impact_scores": [],
+      "tags": [
+        "BUSINESS & FINANCE",
+        "Energy",
+        "Finance",
+        "Tech",
+        "AI",
+        "VC",
+        "US"
+      ]
+    },
+    {
       "date": "2026-05-10",
       "sector": "lenses",
       "headline_themes": [],
