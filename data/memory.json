@@ -2,6 +2,28 @@
   "version": 2,
   "entries": [
     {
+      "date": "2026-05-15",
+      "sector": "INDIA POLICY",
+      "headline_themes": [
+        "India",
+        "Ebola",
+        "Democratic",
+        "Republic",
+        "Congo",
+        "COVID"
+      ],
+      "expert_summary": "An Ebola outbreak in the Democratic Republic of the Congo has sparked regional concerns, with potential implications for India's public health and national security. The outbreak may lead to increased vigilance and preparedness measures in India. India's experience in managing public health crises, such as the COVID-19 pandemic, may be leveraged to respond to the Ebola outbreak.",
+      "emerging_narrative": "India's experience in managing public health crises, combined with its growing role in regional geopolitics, may position the country as a key player in responding to the Ebola outbreak and other global health challenges.",
+      "contrarian_note": "India's pharmaceutical industry is poised to benefit from the Ebola outbreak, driven by its growing vaccine manufacturing capabilities.",
+      "impact_scores": [],
+      "tags": [
+        "INDIA POLICY",
+        "Healthcare",
+        "Pharmaceuticals",
+        "Biotechnology"
+      ]
+    },
+    {
       "date": "2026-05-14",
       "sector": "lenses",
       "headline_themes": [],
