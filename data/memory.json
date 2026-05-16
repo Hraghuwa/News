@@ -2,6 +2,71 @@
   "version": 2,
   "entries": [
     {
+      "date": "2026-05-16",
+      "sector": "INDIA POLICY",
+      "headline_themes": [
+        "Ebola",
+        "Indian",
+        "Democratic",
+        "Republic",
+        "Congo",
+        "India"
+      ],
+      "expert_summary": "A rare strain of Ebola with no approved vaccine or treatment has killed dozens of people in the Democratic Republic of Congo. The outbreak has sparked regional concerns, with potential implications for India's public health and national security.",
+      "emerging_narrative": "The outbreak of Ebola highlights the need for investment in healthcare and biotechnology startups, particularly those focused on vaccine development and disease diagnosis. The Indian government may need to review its public health strategy and consider measures to prevent the spread of the disease.",
+      "contrarian_note": "India's healthcare industry may be poised for significant growth, driven by its skilled workforce, innovative companies, and government support for the sector",
+      "impact_scores": [],
+      "tags": [
+        "INDIA POLICY",
+        "Healthcare",
+        "Biotechnology",
+        "Pharmaceuticals"
+      ]
+    },
+    {
+      "date": "2026-05-16",
+      "sector": "BUSINESS & FINANCE",
+      "headline_themes": [
+        "Iran",
+        "Friday",
+        "Treasury",
+        "Nvidia",
+        "Cerebras",
+        "Wall",
+        "Street"
+      ],
+      "expert_summary": "The Dow lost more than 500 points on Friday due to losses in technology stocks and a rise in U.S. Treasury yields. The surge in oil prices is also leading to inflation concerns, making equities less attractive. Nvidia competitor Cerebras made a stunning debut on Wall Street, signaling unstoppable demand for AI chips.",
+      "emerging_narrative": "The surge in oil prices due to the Iran war tensions is leading to inflation concerns and impacting global financial markets. The demand for AI chips is increasing, with potential implications for startups and investors in the AI space.",
+      "contrarian_note": "The oil price surge may be a catalyst for the transition to a low-carbon economy, creating opportunities for investors in sustainable energy technologies",
+      "impact_scores": [],
+      "tags": [
+        "BUSINESS & FINANCE",
+        "Technology",
+        "Energy",
+        "Finance",
+        "AI"
+      ]
+    },
+    {
+      "date": "2026-05-16",
+      "sector": "INDIA FINANCE",
+      "headline_themes": [
+        "Iran",
+        "India",
+        "Treasury"
+      ],
+      "expert_summary": "The Iran war tensions are causing crude oil prices to surge, leading to inflation concerns and impacting global financial markets. The rise in oil prices is affecting everything from homebuying to corporate borrowing, with benchmark U.S. Treasury yields reaching yearly highs. India's economy is also feeling the effects, with potential implications for its public health and national security.",
+      "emerging_narrative": "The surge in oil prices due to the Iran war tensions is leading to inflation concerns and impacting global financial markets. India's economy is also feeling the effects, with potential implications for its public health and national security.",
+      "contrarian_note": "India's economy may be more resilient to oil price shocks than expected, creating opportunities for contrarian investors",
+      "impact_scores": [],
+      "tags": [
+        "INDIA FINANCE",
+        "Energy",
+        "Finance",
+        "Transportation"
+      ]
+    },
+    {
       "date": "2026-05-15",
       "sector": "INDIA POLICY",
       "headline_themes": [
