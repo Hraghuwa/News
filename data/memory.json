@@ -2,6 +2,65 @@
   "version": 2,
   "entries": [
     {
+      "date": "2026-05-17",
+      "sector": "INDIA FINANCE",
+      "headline_themes": [
+        "India",
+        "Indian"
+      ],
+      "expert_summary": "India is facing economic uncertainty due to the outflow of foreign portfolio investments and the decline in the value of top Indian companies. The country is also preparing for the impact of a potential super El Niño.",
+      "emerging_narrative": "India is facing economic uncertainty due to the outflow of foreign portfolio investments and the decline in the value of top Indian companies, which may have implications for the country's economic growth and foreign policy.",
+      "contrarian_note": "India's stock market could be due for a rebound as domestic investors step in to buy oversold stocks",
+      "impact_scores": [],
+      "tags": [
+        "INDIA FINANCE",
+        "Finance",
+        "Technology",
+        "Agriculture"
+      ]
+    },
+    {
+      "date": "2026-05-17",
+      "sector": "BUSINESS & FINANCE",
+      "headline_themes": [
+        "Iran",
+        "China",
+        "Wall",
+        "Street"
+      ],
+      "expert_summary": "The global economy is facing uncertainty due to the US-Iran conflict, the US-China relationship, and the potential for interest rate cuts. The Fed is expected to continue its cautious approach, while Wall Street banks are preparing to sell billions of dollars of debt.",
+      "emerging_narrative": "The global economy is facing uncertainty due to geopolitical tensions and the potential for interest rate cuts, which may have implications for global trade agreements and the value of the US dollar.",
+      "contrarian_note": "A weaker US dollar could be a silver lining for US exporters and the broader US economy",
+      "impact_scores": [],
+      "tags": [
+        "BUSINESS & FINANCE",
+        "Finance",
+        "Technology",
+        "Energy",
+        "US"
+      ]
+    },
+    {
+      "date": "2026-05-17",
+      "sector": "INDIA POLICY",
+      "headline_themes": [
+        "India",
+        "Netherlands"
+      ],
+      "expert_summary": "India is preparing for the impact of a potential super El Niño, with below-normal monsoon rainfall forecasted, and is also strengthening its ties with the Netherlands through various agreements and projects. The country is at risk of drought in some states and flooding in others, which may affect food security and farmers.",
+      "emerging_narrative": "India is preparing for the impact of a potential super El Niño and is strengthening its ties with other countries to attract investments and create new opportunities.",
+      "contrarian_note": "India's super El Niño preparations could be a catalyst for agricultural innovation and investment opportunities",
+      "impact_scores": [],
+      "tags": [
+        "INDIA POLICY",
+        "Agriculture",
+        "Technology",
+        "Infrastructure",
+        "TATA",
+        "ASML"
+      ]
+    },
+    {
       "date": "2026-05-16",
       "sector": "INDIA POLICY",
       "headline_themes": [
