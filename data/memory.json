@@ -2,6 +2,45 @@
   "version": 2,
   "entries": [
     {
+      "date": "2026-05-19",
+      "sector": "BUSINESS & FINANCE",
+      "headline_themes": [
+        "Iran"
+      ],
+      "expert_summary": "The US-Iran conflict is piling pressure on tech companies, particularly those in the AI sector, due to rising costs and supply chain disruptions. The chip sector is scrambling to shore up access to key materials. The AI boom continues to drive stock market rallies, but the conflict may lead to increased volatility and uncertainty.",
+      "emerging_narrative": "The US-Iran conflict is leading to a surge in oil prices, which may have significant implications for the tech sector, particularly with regards to energy costs and supply chain disruptions.",
+      "contrarian_note": "The US-Iran conflict may be a catalyst for the sustainable energy revolution, benefiting companies like Vestas and SunPower",
+      "impact_scores": [],
+      "tags": [
+        "BUSINESS & FINANCE",
+        "Tech",
+        "Energy",
+        "Finance",
+        "US",
+        "AI"
+      ]
+    },
+    {
+      "date": "2026-05-19",
+      "sector": "INDIA POLICY",
+      "headline_themes": [
+        "Iran",
+        "India",
+        "Indian"
+      ],
+      "expert_summary": "The US-Iran conflict has led to fluctuations in oil prices, which may impact India's energy imports and economic growth. The Indian government may need to reassess its energy policies and trade relationships. The RBI may also need to consider the implications of rising oil prices on inflation and monetary policy.",
+      "emerging_narrative": "The US-Iran conflict is leading to a surge in oil prices, which may have significant implications for India's economy, energy sector, and foreign policy.",
+      "contrarian_note": "India's oil import woes may be a blessing in disguise for its refining and petrochemicals sector",
+      "impact_scores": [],
+      "tags": [
+        "INDIA POLICY",
+        "Energy",
+        "Finance",
+        "Logistics",
+        "US"
+      ]
+    },
+    {
       "date": "2026-05-18",
       "sector": "INDIA POLICY",
       "headline_themes": [
