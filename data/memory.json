@@ -2,6 +2,52 @@
   "version": 2,
   "entries": [
     {
+      "date": "2026-05-21",
+      "sector": "BUSINESS & FINANCE",
+      "headline_themes": [
+        "Companies",
+        "SpaceX",
+        "Nasdaq",
+        "Elon",
+        "Musk",
+        "This"
+      ],
+      "expert_summary": "SpaceX has filed for an IPO and plans to list on Nasdaq, which could lead to a significant influx of capital for the company and provide a benchmark for the valuation of other space-tech firms. The IPO plans also reveal the company's financials, including billions in losses and Elon Musk's massive ownership stake. This development could have implications for the broader space-tech industry and the stock market as a whole.",
+      "emerging_narrative": "The space-tech industry is gaining traction and is expected to drive growth and innovation in the tech industry. Companies like SpaceX are well-positioned to take advantage of this trend.",
+      "contrarian_note": "SpaceX's IPO may be overvalued, and investors should consider the potential risks and challenges associated with this highly hyped and capital-intensive industry",
+      "impact_scores": [],
+      "tags": [
+        "BUSINESS & FINANCE",
+        "Finance",
+        "Tech",
+        "Energy",
+        "IPO"
+      ]
+    },
+    {
+      "date": "2026-05-21",
+      "sector": "TECHNOLOGY",
+      "headline_themes": [
+        "Companies",
+        "Nvidia",
+        "Jensen",
+        "Huang",
+        "CPUs",
+        "This"
+      ],
+      "expert_summary": "Nvidia's CEO Jensen Huang has identified a new $200B market opportunity for the company in CPUs for AI agents, indicating a significant potential for growth in the AI infrastructure space. This development could further disrupt the tech industry and create new opportunities for investors. The AI infrastructure space is gaining traction with significant investments and innovations.",
+      "emerging_narrative": "The AI infrastructure space is gaining traction and is expected to drive growth and innovation in the tech industry. Companies like Nvidia are well-positioned to take advantage of this trend.",
+      "contrarian_note": "Nvidia's AI infrastructure play may be overhyped, and investors should consider the potential risks and challenges associated with this new market opportunity",
+      "impact_scores": [],
+      "tags": [
+        "TECHNOLOGY",
+        "Tech",
+        "Finance",
+        "AI",
+        "CPU"
+      ]
+    },
+    {
       "date": "2026-05-20",
       "sector": "BUSINESS & FINANCE",
       "headline_themes": [
