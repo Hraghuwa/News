@@ -2,6 +2,25 @@
   "version": 2,
   "entries": [
     {
+      "date": "2026-05-22",
+      "sector": "INDIA POLICY",
+      "headline_themes": [
+        "India",
+        "This"
+      ],
+      "expert_summary": "The US is investing $2 billion in quantum computing, with IBM receiving $1 billion to manufacture quantum chips, which may impact India's own quantum computing ambitions and collaborations with US companies. This investment could lead to advancements in quantum technology, potentially leaving India behind if it doesn't keep pace. India may need to reassess its own quantum computing strategy to remain competitive.",
+      "emerging_narrative": "The US investment in quantum computing is part of a larger trend of nations competing to develop and deploy emerging technologies, with significant implications for India's own technological ambitions and economic growth.",
+      "contrarian_note": "India can carve out a unique niche in quantum computing by focusing on practical applications and emerging market solutions, rather than trying to keep pace with US hardware advancements",
+      "impact_scores": [],
+      "tags": [
+        "INDIA POLICY",
+        "Technology",
+        "Finance",
+        "Energy",
+        "US"
+      ]
+    },
+    {
       "date": "2026-05-21",
       "sector": "BUSINESS & FINANCE",
       "headline_themes": [
