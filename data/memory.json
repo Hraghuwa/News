@@ -2,6 +2,90 @@
   "version": 2,
   "entries": [
     {
+      "date": "2026-05-25",
+      "sector": "TECHNOLOGY",
+      "headline_themes": [
+        "Xreal",
+        "Google"
+      ],
+      "expert_summary": "Xreal, Google's smartglasses partner, thinks it has finally mastered the smart glasses business, which has been a notoriously tricky industry.",
+      "emerging_narrative": "The smart glasses business has been a challenging industry, but partnerships between companies like Xreal and Google could lead to significant growth and investment, with potential opportunities for job creation and trade.",
+      "contrarian_note": "As the smart glasses industry takes off, a contrarian bet on specialized chip makers could yield unexpected returns.",
+      "impact_scores": [],
+      "tags": [
+        "TECHNOLOGY",
+        "Tech"
+      ]
+    },
+    {
+      "date": "2026-05-25",
+      "sector": "INDIA POLICY",
+      "headline_themes": [
+        "Indian",
+        "Supreme",
+        "Court",
+        "NEET"
+      ],
+      "expert_summary": "The Supreme Court pulled up the NTA for not learning lessons from previous directions, and asked it to file a compliance affidavit in the 2024 NEET paper leak matter.",
+      "emerging_narrative": "The Indian government's policies and regulations in the education sector could lead to significant changes and growth, with potential opportunities for investment in related industries.",
+      "contrarian_note": "As the Indian government grapples with the NEET paper leak matter, a contrarian bet on education technology could yield unexpected returns.",
+      "impact_scores": [],
+      "tags": [
+        "INDIA POLICY",
+        "Education",
+        "VC"
+      ]
+    },
+    {
+      "date": "2026-05-25",
+      "sector": "INDIA FINANCE",
+      "headline_themes": [
+        "Indian",
+        "Railway",
+        "Companies",
+        "Jupiter",
+        "Wagons",
+        "Titagarh",
+        "Rail",
+        "Systems"
+      ],
+      "expert_summary": "Indian Railway stocks surged up to 10% after reports of a large tender for freight wagons, which could be worth Rs 40,000 crore. Companies like Jupiter Wagons and Titagarh Rail Systems could benefit from this procurement.",
+      "emerging_narrative": "The Indian government's investment in the railway sector could lead to significant growth and job creation, with potential opportunities for investment in related industries.",
+      "contrarian_note": "As India invests in its railway sector, a contrarian bet on green technology could yield unexpected returns.",
+      "impact_scores": [],
+      "tags": [
+        "INDIA FINANCE",
+        "Transportation",
+        "Infrastructure",
+        "VC"
+      ]
+    },
+    {
+      "date": "2026-05-25",
+      "sector": "BUSINESS & FINANCE",
+      "headline_themes": [
+        "Iran",
+        "Strait",
+        "Hormuz",
+        "Huawei",
+        "Nvidia",
+        "Delivery",
+        "Hero",
+        "Uber"
+      ],
+      "expert_summary": "Oil markets are nearing minimum operating levels, Iran is potentially opening up the Strait of Hormuz, and tech companies like Huawei and Nvidia are heating up their rivalry, while companies like Delivery Hero and Uber are involved in takeover bids. The global economy is facing uncertainty due to various conflicts and interest rate cuts. Wall Street banks are preparing to sell billions of dollars of debt, and companies like Amazon are shutting down operations in certain regions.",
+      "emerging_narrative": "The global economy is facing uncertainty due to various conflicts and interest rate cuts, but there are also potential opportunities for growth and investment, particularly in the tech sector.",
+      "contrarian_note": "As global tensions rise, the often-overlooked shipping industry may hold the key to unlocking hidden investment opportunities.",
+      "impact_scores": [],
+      "tags": [
+        "BUSINESS & FINANCE",
+        "Energy",
+        "Tech",
+        "Finance",
+        "US"
+      ]
+    },
+    {
       "date": "2026-05-24",
       "sector": "lenses",
       "headline_themes": [],
