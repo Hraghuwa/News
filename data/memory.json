@@ -2,6 +2,49 @@
   "version": 2,
   "entries": [
     {
+      "date": "2026-05-30",
+      "sector": "INDIA POLICY",
+      "headline_themes": [
+        "India",
+        "This",
+        "Indian"
+      ],
+      "expert_summary": "The India-US trade deal is reportedly '99% done' and expected to be signed within weeks, with both nations deepening ties in AI, critical minerals, and pharmaceuticals. This deal may have significant implications for Indian companies and the country's economy. The deal's signing could also influence India's trade relationships and economic growth.",
+      "emerging_narrative": "The India-US trade deal's signing may mark a significant shift in India's trade relationships and economic growth, with potential implications for the country's industrial policies and sectoral development.",
+      "contrarian_note": "The India-US trade deal may worsen India's trade deficits and balance of payments",
+      "impact_scores": [],
+      "tags": [
+        "INDIA POLICY",
+        "Tech",
+        "Pharmaceuticals",
+        "Energy",
+        "US",
+        "AI"
+      ]
+    },
+    {
+      "date": "2026-05-30",
+      "sector": "BUSINESS & FINANCE",
+      "headline_themes": [
+        "This",
+        "Iran",
+        "Nasdaq"
+      ],
+      "expert_summary": "The US stock market has closed at record highs, driven by the tech sector, while crude prices have slipped, contributing to a winning month for major averages. This trend may be influenced by the ongoing US-Iran conflict and its impact on global oil prices. The Nasdaq's 8% gain in May suggests a strong performance by the tech sector.",
+      "emerging_narrative": "The US stock market's record highs, driven by the tech sector, may be a sign of a larger trend towards increased investment in emerging technologies. This could be influenced by the ongoing US-Iran conflict and its impact on global oil prices.",
+      "contrarian_note": "The US stock market's record highs may be masking a looming currency crisis",
+      "impact_scores": [],
+      "tags": [
+        "BUSINESS & FINANCE",
+        "Tech",
+        "Energy",
+        "Finance",
+        "AI",
+        "US",
+        "FX"
+      ]
+    },
+    {
       "date": "2026-05-29",
       "sector": "lenses",
       "headline_themes": [],
