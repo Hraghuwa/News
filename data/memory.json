@@ -2,6 +2,50 @@
   "version": 2,
   "entries": [
     {
+      "date": "2026-06-02",
+      "sector": "BUSINESS & FINANCE",
+      "headline_themes": [
+        "Alphabet",
+        "Nvidia",
+        "Iran",
+        "Berkshire",
+        "Hathaway"
+      ],
+      "expert_summary": "Alphabet plans to raise $80B from stock sales to fund its AI buildout, with a $10B investment from Berkshire Hathaway, indicating strong demand for AI solutions and services, and potential for significant returns on investment. The funding will likely be used to expand Alphabet's AI capabilities and meet the growing demand from enterprises and consumers.",
+      "emerging_narrative": "The AI sector is experiencing significant growth and investment, with major players like Alphabet and Nvidia leading the charge, and global events like the US-Iran conflict may impact the sector's development.",
+      "contrarian_note": "Berkshire Hathaway's $10B bet on Alphabet's AI may not be the value play it seems",
+      "impact_scores": [],
+      "tags": [
+        "BUSINESS & FINANCE",
+        "Tech",
+        "Finance",
+        "AI",
+        "US"
+      ]
+    },
+    {
+      "date": "2026-06-02",
+      "sector": "TECHNOLOGY",
+      "headline_themes": [
+        "Alphabet",
+        "Nvidia",
+        "Iran",
+        "CPUs",
+        "This"
+      ],
+      "expert_summary": "Alphabet plans to raise $80B to fund its AI buildout, driven by strong demand for AI solutions and services, and Nvidia's CEO has identified a new $200B market opportunity in CPUs for AI agents, indicating significant growth potential in the AI infrastructure space. This move is expected to further establish Alphabet as a leader in the AI sector. The funding will likely be used to expand Alphabet's AI capabilities and meet the growing demand from enterprises and consumers.",
+      "emerging_narrative": "The AI sector is experiencing significant growth and investment, with major players like Alphabet and Nvidia leading the charge, and global events like the US-Iran conflict may impact the sector's development.",
+      "contrarian_note": "Alphabet's $80B AI bet may be a peak sign for the sector, not a buy signal",
+      "impact_scores": [],
+      "tags": [
+        "TECHNOLOGY",
+        "Tech",
+        "Finance",
+        "AI",
+        "US"
+      ]
+    },
+    {
       "date": "2026-06-01",
       "sector": "BUSINESS & FINANCE",
       "headline_themes": [
