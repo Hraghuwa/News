@@ -2,6 +2,49 @@
   "version": 2,
   "entries": [
     {
+      "date": "2026-06-04",
+      "sector": "INDIA POLICY",
+      "headline_themes": [
+        "North",
+        "Korea",
+        "India",
+        "However"
+      ],
+      "expert_summary": "North Korea's unveiling of a new nuclear fuel production plant has significant geopolitical implications, but its direct impact on India's policy is limited. However, India may need to consider the broader geopolitical landscape and potential alliances in the region.",
+      "emerging_narrative": "The unveiling of North Korea's new nuclear fuel production plant contributes to a narrative of rising geopolitical tensions and potential threats to regional stability, which may impact India's foreign policy and alliances in the region.",
+      "contrarian_note": "India can turn the geopolitical tensions sparked by North Korea's nuclear program into an opportunity to boost its own energy independence and regional influence.",
+      "impact_scores": [],
+      "tags": [
+        "INDIA POLICY",
+        "Defense",
+        "Foreign Policy",
+        "Energy"
+      ]
+    },
+    {
+      "date": "2026-06-04",
+      "sector": "BUSINESS & FINANCE",
+      "headline_themes": [
+        "SpaceX",
+        "Indian",
+        "SoftBank",
+        "Middle",
+        "East"
+      ],
+      "expert_summary": "SpaceX's IPO targets a $1.77 trillion valuation, while SoftBank shares plummet amidst a tech sell-off, and rising Middle East tensions impact the S&P 500 futures. The IPO may provide a benchmark for space-tech firms, but also raises concerns about overvaluation and risks. The broader tech sector is experiencing profit taking, leading to fluctuations in the market.",
+      "emerging_narrative": "The SpaceX IPO and the broader tech sell-off are contributing to a narrative of disruption and fluctuation in the tech sector, with potential implications for the Indian economy and the global market.",
+      "contrarian_note": "SpaceX's IPO may be a harbinger of a space-tech bubble, making it a prime target for a contrarian short sale.",
+      "impact_scores": [],
+      "tags": [
+        "BUSINESS & FINANCE",
+        "Tech",
+        "Finance",
+        "Energy",
+        "IPO",
+        "US"
+      ]
+    },
+    {
       "date": "2026-06-03",
       "sector": "lenses",
       "headline_themes": [],
