@@ -2,6 +2,47 @@
   "version": 2,
   "entries": [
     {
+      "date": "2026-06-07",
+      "sector": "TECHNOLOGY",
+      "headline_themes": [
+        "OpenAI",
+        "Trump",
+        "President",
+        "American"
+      ],
+      "expert_summary": "The Trump administration is considering taking an equity stake in OpenAI, with President Trump discussing deals that could benefit the American people from the success of AI.",
+      "emerging_narrative": "The US government's interest in OpenAI is part of a broader trend of increased investment in AI technology, with potential implications for the tech sector and global geopolitics.",
+      "contrarian_note": "The US government's investment in OpenAI may stifle innovation and create unintended consequences, benefiting alternative AI companies that prioritize transparency and ethics",
+      "impact_scores": [],
+      "tags": [
+        "TECHNOLOGY",
+        "Tech",
+        "AI",
+        "Government",
+        "US"
+      ]
+    },
+    {
+      "date": "2026-06-07",
+      "sector": "BUSINESS & FINANCE",
+      "headline_themes": [
+        "Iran",
+        "Iranian",
+        "Gulf"
+      ],
+      "expert_summary": "The Iran war is causing significant fluctuations in global oil prices and financial markets, with the US considering using Iranian assets for reconstruction in the Gulf region. The conflict has reached its 100th day, with peace negotiations uncertain. The global economy is facing uncertainty due to the conflict and other geopolitical tensions.",
+      "emerging_narrative": "The Iran war is creating a complex web of geopolitical and economic tensions, with potential opportunities for investment in renewable energy sources and shifts in global trade patterns.",
+      "contrarian_note": "The Iran war may inadvertently create a global supply chain reset, benefiting countries like India and logistics companies that adapt quickly",
+      "impact_scores": [],
+      "tags": [
+        "BUSINESS & FINANCE",
+        "Energy",
+        "Finance",
+        "Trade",
+        "US"
+      ]
+    },
+    {
       "date": "2026-06-06",
       "sector": "lenses",
       "headline_themes": [],
