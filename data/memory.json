@@ -2,6 +2,32 @@
   "version": 2,
   "entries": [
     {
+      "date": "2026-06-08",
+      "sector": "INDIA POLICY",
+      "headline_themes": [
+        "India",
+        "Middle",
+        "East",
+        "Asia",
+        "Pacific",
+        "Israel",
+        "Iran",
+        "Philippines"
+      ],
+      "expert_summary": "India is closely monitoring the escalating tensions in the Middle East, particularly between Israel and Iran, and has issued travel advisories for its citizens, while a powerful earthquake in the Philippines has prompted tsunami warnings across several countries. The Indian government's advisories indicate a prioritization of citizen safety amidst global geopolitical uncertainty.",
+      "emerging_narrative": "India is navigating a complex geopolitical landscape, marked by escalating tensions in the Middle East and natural disasters in the Asia-Pacific region, which may create both challenges and opportunities for its economy, foreign policy, and citizens.",
+      "contrarian_note": "India's neutral stance in the Middle East conflict could be a strategic opportunity for the country to emerge as a key regional player.",
+      "impact_scores": [],
+      "tags": [
+        "INDIA POLICY",
+        "Energy",
+        "Finance",
+        "Technology",
+        "Transportation",
+        "US"
+      ]
+    },
+    {
       "date": "2026-06-07",
       "sector": "TECHNOLOGY",
       "headline_themes": [
