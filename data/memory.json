@@ -2,6 +2,48 @@
   "version": 2,
   "entries": [
     {
+      "date": "2026-06-11",
+      "sector": "INDIA POLICY",
+      "headline_themes": [
+        "Iran",
+        "Indian",
+        "Three",
+        "Oman"
+      ],
+      "expert_summary": "Three Indian seafarers have died in a US attack on a vessel sailing near Oman, highlighting the risks faced by Indian citizens in the region. The Indian government may need to reassess its energy policies and trade relationships in light of the conflict.",
+      "emerging_narrative": "The US-Iran conflict is highlighting the risks faced by Indian citizens in the region and the need for the Indian government to navigate the complex geopolitical landscape.",
+      "contrarian_note": "India can turn the US-Iran conflict into an opportunity to redefine its energy security and emerge as a key player in global energy trade",
+      "impact_scores": [],
+      "tags": [
+        "INDIA POLICY",
+        "Energy",
+        "Transportation"
+      ]
+    },
+    {
+      "date": "2026-06-11",
+      "sector": "BUSINESS & FINANCE",
+      "headline_themes": [
+        "Iran",
+        "Middle",
+        "East",
+        "Escalating",
+        "Kuwait",
+        "Israel",
+        "Lebanon"
+      ],
+      "expert_summary": "Escalating tensions between the US and Iran are causing significant fluctuations in global oil prices and financial markets, with Kuwait closing its airspace and Israel warning of launches from Lebanon. The conflict may inadvertently accelerate the transition to renewable energy sources. The US has promised more attacks on Iran, increasing uncertainty in the region.",
+      "emerging_narrative": "The US-Iran conflict is leading to a significant escalation of tensions in the Middle East, with potential implications for global oil prices and the energy sector.",
+      "contrarian_note": "The US-Iran conflict may inadvertently trigger a tipping point for renewable energy adoption, disrupting traditional energy markets",
+      "impact_scores": [],
+      "tags": [
+        "BUSINESS & FINANCE",
+        "Energy",
+        "Finance",
+        "US"
+      ]
+    },
+    {
       "date": "2026-06-10",
       "sector": "BUSINESS & FINANCE",
       "headline_themes": [
