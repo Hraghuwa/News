@@ -2,6 +2,49 @@
   "version": 2,
   "entries": [
     {
+      "date": "2026-06-12",
+      "sector": "TECHNOLOGY",
+      "headline_themes": [
+        "Jeff",
+        "Bezos",
+        "Prometheus",
+        "This"
+      ],
+      "expert_summary": "The technology sector is experiencing significant advancements, with Jeff Bezos's Prometheus raising $12B to build an 'artificial general engineer' for the physical world. This development has the potential to automate heavy engineering and drug design, and may lead to significant breakthroughs in various fields.",
+      "emerging_narrative": "The development of advanced technologies such as artificial general engineers is creating a new landscape for innovation and investment, with significant implications for economies and societies.",
+      "contrarian_note": "The development of artificial general engineers may have significant unintended consequences, from job displacement to cybersecurity risks",
+      "impact_scores": [],
+      "tags": [
+        "TECHNOLOGY",
+        "Tech",
+        "Healthcare",
+        "Manufacturing",
+        "VC",
+        "US"
+      ]
+    },
+    {
+      "date": "2026-06-12",
+      "sector": "BUSINESS & FINANCE",
+      "headline_themes": [
+        "SpaceX",
+        "Iran"
+      ],
+      "expert_summary": "The business and finance landscape is experiencing significant shifts with SpaceX's historic IPO, potential war with Iran, and fluctuating stock futures. The IPO is expected to generate substantial paper gains for early investors, while the Iran situation may lead to increased oil prices and market volatility. The overall impact on the market is uncertain, with both positive and negative factors at play.",
+      "emerging_narrative": "The intersection of technology, geopolitics, and finance is creating a complex and volatile landscape, with significant implications for investors, governments, and economies.",
+      "contrarian_note": "SpaceX's IPO may create a temporary valuation bubble, obscuring the company's long-term financial prospects",
+      "impact_scores": [],
+      "tags": [
+        "BUSINESS & FINANCE",
+        "Finance",
+        "Energy",
+        "Tech",
+        "IPO",
+        "VC",
+        "US"
+      ]
+    },
+    {
       "date": "2026-06-11",
       "sector": "INDIA POLICY",
       "headline_themes": [
