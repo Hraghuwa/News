@@ -2,6 +2,49 @@
   "version": 2,
   "entries": [
     {
+      "date": "2026-06-13",
+      "sector": "BUSINESS & FINANCE",
+      "headline_themes": [
+        "SpaceX",
+        "Iran"
+      ],
+      "expert_summary": "SpaceX's successful IPO debut has lifted its valuation above $2 trillion, making it one of the world's most valuable companies, while the potential Iran deal signing may have implications for global geopolitics and trade. The SpaceX IPO may provide a benchmark for the valuation of other space-tech firms, while the Iran deal may affect global oil prices and trade.",
+      "emerging_narrative": "The SpaceX IPO and the Iran deal may be part of a larger narrative of increasing global trade and investment, but also rising geopolitical tensions and trade uncertainties.",
+      "contrarian_note": "The Iran deal and India-US trade agreement may create a trade finance and logistics boom",
+      "impact_scores": [],
+      "tags": [
+        "BUSINESS & FINANCE",
+        "Technology",
+        "Aerospace",
+        "Energy",
+        "IPO"
+      ]
+    },
+    {
+      "date": "2026-06-13",
+      "sector": "INDIA FINANCE",
+      "headline_themes": [
+        "India",
+        "SpaceX",
+        "Indian",
+        "However"
+      ],
+      "expert_summary": "SpaceX's successful IPO debut has lifted its valuation above $2 trillion, making it one of the world's most valuable companies, but its impact on Indian finance is limited, with no direct implications for India's financial markets or economy. However, the deal between India and the US may have significant implications for India's trade deficits and balance of payments. The India-US trade deal is reportedly '99% done' and expected to be signed within weeks, with both nations deepening ties in AI,",
+      "emerging_narrative": "The India-US trade deal and the SpaceX IPO may be part of a larger narrative of increasing global trade and investment, but also rising geopolitical tensions and trade deficits.",
+      "contrarian_note": "Indian space-tech firms may be the surprise winners from the SpaceX IPO and India-US trade deal",
+      "impact_scores": [],
+      "tags": [
+        "INDIA FINANCE",
+        "Finance",
+        "Technology",
+        "Pharmaceuticals",
+        "IPO",
+        "US",
+        "AI",
+        "RBI"
+      ]
+    },
+    {
       "date": "2026-06-12",
       "sector": "TECHNOLOGY",
       "headline_themes": [
