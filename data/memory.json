@@ -2,6 +2,75 @@
   "version": 2,
   "entries": [
     {
+      "date": "2026-06-16",
+      "sector": "TECHNOLOGY",
+      "headline_themes": [
+        "Anthropic",
+        "Meta",
+        "Facebook",
+        "Malaysian",
+        "Respond"
+      ],
+      "expert_summary": "The technology sector is experiencing significant developments, including the US government's ban on Anthropic models and Meta's new AI features on Facebook. The Malaysian startup Respond.io is also raising funds and expanding its AI-powered messaging app.",
+      "emerging_narrative": "The technology sector is experiencing significant growth, driven by developments such as the US government's ban on Anthropic models and Meta's new AI features on Facebook.",
+      "contrarian_note": "The technology sector's growth is threatened by regulatory risks and over-reliance on specific AI architectures, creating opportunities for contrarian investors.",
+      "impact_scores": [],
+      "tags": [
+        "TECHNOLOGY",
+        "Technology",
+        "Finance",
+        "Energy",
+        "US",
+        "AI"
+      ]
+    },
+    {
+      "date": "2026-06-16",
+      "sector": "BUSINESS & FINANCE",
+      "headline_themes": [
+        "SpaceX",
+        "Iran",
+        "Qualcomm"
+      ],
+      "expert_summary": "The business and finance landscape is experiencing significant developments, including the surge in SpaceX's stock value and the impact of the US-Iran deal on global markets. The Qualcomm CEO's comments on AI agents replacing apps are also driving growth and investment in the tech sector.",
+      "emerging_narrative": "The business and finance landscape is experiencing significant growth, driven by developments such as SpaceX's surge in stock value and the US-Iran deal.",
+      "contrarian_note": "The business and finance landscape is due for a correction, as the focus on SpaceX and AI-powered apps obscures underlying risks.",
+      "impact_scores": [],
+      "tags": [
+        "BUSINESS & FINANCE",
+        "Technology",
+        "Finance",
+        "Energy",
+        "CEO",
+        "AI",
+        "US"
+      ]
+    },
+    {
+      "date": "2026-06-16",
+      "sector": "INDIA FINANCE",
+      "headline_themes": [
+        "Indian",
+        "India",
+        "National",
+        "Stock",
+        "Exchange",
+        "Iran",
+        "Japan"
+      ],
+      "expert_summary": "India's financial landscape is witnessing significant developments, including the potential listing of the National Stock Exchange (NSE) and the impact of global market trends on Indian markets. The NSE's proposed IPO could be one of India's largest listings, while global events such as the US-Iran conflict and interest rate hikes in Japan are influencing Indian markets.",
+      "emerging_narrative": "The Indian financial sector is poised for growth, driven by significant developments such as the NSE listing and the impact of global market trends.",
+      "contrarian_note": "India's financial growth is vulnerable to external shocks, making a case for diversification into domestic fintech innovators.",
+      "impact_scores": [],
+      "tags": [
+        "INDIA FINANCE",
+        "Finance",
+        "Technology",
+        "NSE",
+        "US"
+      ]
+    },
+    {
       "date": "2026-06-15",
       "sector": "lenses",
       "headline_themes": [],
