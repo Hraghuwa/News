@@ -2,6 +2,72 @@
   "version": 2,
   "entries": [
     {
+      "date": "2026-06-19",
+      "sector": "INDIA FINANCE",
+      "headline_themes": [
+        "Indian",
+        "Iran"
+      ],
+      "expert_summary": "The US-Iran peace talks have stalled, and the yen is near a 40-year low, causing market uncertainty and affecting Indian trade and investment, particularly in the energy sector and trade routes.",
+      "emerging_narrative": "The conflict and economic uncertainty are leading to increased market uncertainty and affecting Indian trade and investment, particularly in the energy sector and trade routes.",
+      "contrarian_note": "India may emerge as a beneficiary of the US-Iran peace talks stalemate, driven by energy import diversification",
+      "impact_scores": [],
+      "tags": [
+        "INDIA FINANCE",
+        "Energy",
+        "Finance",
+        "Trade",
+        "AI",
+        "US"
+      ]
+    },
+    {
+      "date": "2026-06-19",
+      "sector": "TECHNOLOGY",
+      "headline_themes": [
+        "Baseten",
+        "Elastic",
+        "DeductiveAI"
+      ],
+      "expert_summary": "AI inference startup Baseten is reportedly raising $1.5 billion, and Elastic has agreed to buy DeductiveAI for up to $85 million, indicating a growing demand for AI-driven technologies.",
+      "emerging_narrative": "The growing demand for AI-driven technologies is driving investment and innovation in the tech sector, with potential implications for global trade and economic growth.",
+      "contrarian_note": "The AI inference gold rush may be hiding a looming sustainability and talent crisis",
+      "impact_scores": [],
+      "tags": [
+        "TECHNOLOGY",
+        "Tech",
+        "Finance",
+        "Energy",
+        "AI"
+      ]
+    },
+    {
+      "date": "2026-06-19",
+      "sector": "BUSINESS & FINANCE",
+      "headline_themes": [
+        "Iran",
+        "Russia",
+        "Ukraine",
+        "Strait",
+        "Hormuz",
+        "Canadian",
+        "Canada",
+        "Post"
+      ],
+      "expert_summary": "The US-Iran peace talks have stalled, and the conflict between Russia and Ukraine is escalating, causing economic damages that will take months to unwind. The reopening of the Strait of Hormuz may not ease the economic toll, and the Canadian government is providing financing to Canada Post to avoid insolvency.",
+      "emerging_narrative": "The conflict and economic uncertainty are leading to increased investment in AI and renewable energy sources, and the economic damages from the war will take months to unwind.",
+      "contrarian_note": "Canada Post's government financing could be a stealth catalyst for Canadian logistics innovation",
+      "impact_scores": [],
+      "tags": [
+        "BUSINESS & FINANCE",
+        "Energy",
+        "Finance",
+        "Transportation",
+        "AI",
+        "US"
+      ]
+    },
+    {
       "date": "2026-06-18",
       "sector": "INDIA POLICY",
       "headline_themes": [
