@@ -2,6 +2,49 @@
   "version": 2,
   "entries": [
     {
+      "date": "2026-06-20",
+      "sector": "INDIA FINANCE",
+      "headline_themes": [
+        "India",
+        "Platforms",
+        "This"
+      ],
+      "expert_summary": "Jio Platforms is gearing up for a significant IPO, aiming to redefine itself beyond mobile services and position itself as a cornerstone of India's digital future, with ambitions including developing sovereign AI, satellite broadband, and a robust fibre network. This strategic pivot may have implications for India's tech industry and the country's digital economy.",
+      "emerging_narrative": "India's tech industry is experiencing a period of significant growth and transformation, with Jio's IPO being a key development that may have far-reaching implications for the country's digital economy and tech sector.",
+      "contrarian_note": "Jio's ambitious plans may be more risky and challenging to execute than the market currently anticipates, creating opportunities for contrarian investors",
+      "impact_scores": [],
+      "tags": [
+        "INDIA FINANCE",
+        "Tech",
+        "Finance",
+        "Telecom",
+        "IPO",
+        "AI"
+      ]
+    },
+    {
+      "date": "2026-06-20",
+      "sector": "BUSINESS & FINANCE",
+      "headline_themes": [
+        "SpaceX",
+        "Apple",
+        "Elon",
+        "Musk",
+        "This"
+      ],
+      "expert_summary": "The tech industry is experiencing a memory crisis, with Apple considering price increases due to an 'unsustainable' memory shortage, while SpaceX's successful IPO has lifted its valuation and that of its shareholders, including Elon Musk. This development may have implications for the broader tech sector and investors. The memory crisis may lead to increased costs for tech companies, while SpaceX's IPO may attract more investment to the space-tech industry.",
+      "emerging_narrative": "The tech industry is experiencing a period of significant change and disruption, with the memory crisis and SpaceX's IPO being two key developments that may have far-reaching implications for investors, companies, and governments.",
+      "contrarian_note": "The memory crisis may accelerate the development of alternative memory technologies, disrupting the traditional memory market",
+      "impact_scores": [],
+      "tags": [
+        "BUSINESS & FINANCE",
+        "Tech",
+        "Finance",
+        "IPO",
+        "US"
+      ]
+    },
+    {
       "date": "2026-06-19",
       "sector": "INDIA FINANCE",
       "headline_themes": [
