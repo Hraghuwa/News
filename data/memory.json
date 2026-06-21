@@ -2,6 +2,31 @@
   "version": 2,
   "entries": [
     {
+      "date": "2026-06-21",
+      "sector": "BUSINESS & FINANCE",
+      "headline_themes": [
+        "Middle",
+        "East",
+        "Strait",
+        "Hormuz",
+        "Iran",
+        "Russia",
+        "Ukraine",
+        "Israeli"
+      ],
+      "expert_summary": "The Iran war and rising tensions in the Strait of Hormuz are causing significant fluctuations in global oil prices and financial markets, with potential implications for trade relationships and global supply chains. The US and Iran have had on-again, off-again peace talks, and the conflict between Russia and Ukraine is escalating. The Strait of Hormuz remains a critical point of contention, with Iran's military claiming to have closed it in response to Israeli military strikes in Lebanon.",
+      "emerging_narrative": "The ongoing conflict in the Middle East and the rising tensions in the Strait of Hormuz are creating a complex and volatile global economic landscape, with potential implications for trade relationships, supply chains, and financial markets.",
+      "contrarian_note": "",
+      "impact_scores": [],
+      "tags": [
+        "BUSINESS & FINANCE",
+        "Energy",
+        "Finance",
+        "Transportation",
+        "US"
+      ]
+    },
+    {
       "date": "2026-06-20",
       "sector": "INDIA FINANCE",
       "headline_themes": [
