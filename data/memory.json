@@ -2,6 +2,70 @@
   "version": 2,
   "entries": [
     {
+      "date": "2026-06-23",
+      "sector": "INDIA POLICY",
+      "headline_themes": [
+        "India",
+        "This"
+      ],
+      "expert_summary": "The India policy sector is experiencing significant developments, including a techie exploiting lapses in security to purge government job competitors using AI. This incident highlights the need for improved cybersecurity measures in government systems.",
+      "emerging_narrative": "The India policy sector is experiencing a period of significant change, driven by the development of AI technologies and their applications in various industries.",
+      "contrarian_note": "India's response to the cybersecurity incident could create a hidden opportunity for investment in Indian cybersecurity startups, but also poses a risk of over-regulation",
+      "impact_scores": [],
+      "tags": [
+        "INDIA POLICY",
+        "Government",
+        "Cybersecurity",
+        "Tech",
+        "AI"
+      ]
+    },
+    {
+      "date": "2026-06-23",
+      "sector": "TECHNOLOGY",
+      "headline_themes": [
+        "OpenAI",
+        "Uber",
+        "Additionally"
+      ],
+      "expert_summary": "The technology sector is experiencing significant developments, including OpenAI's launch of a new initiative to help find and patch open source bugs, and shareholders suing Uber's board over sexual assaults. Additionally, there have been major tech layoffs in 2026, with AI cited as a factor.",
+      "emerging_narrative": "The technology sector is experiencing a period of significant change, driven by the development of AI technologies and their applications in various industries.",
+      "contrarian_note": "OpenAI's bug-patching initiative could create a new revenue stream, making it an attractive investment opportunity in the tech sector",
+      "impact_scores": [],
+      "tags": [
+        "TECHNOLOGY",
+        "Tech",
+        "Cybersecurity",
+        "Transportation",
+        "AI"
+      ]
+    },
+    {
+      "date": "2026-06-23",
+      "sector": "BUSINESS & FINANCE",
+      "headline_themes": [
+        "Alphabet",
+        "Canada",
+        "Post",
+        "Wall",
+        "Street",
+        "Additionally",
+        "SpaceX",
+        "Amazon"
+      ],
+      "expert_summary": "The business and finance sector is experiencing significant developments, including Alphabet's worst day in over a year due to AI concerns, Canada's $720 million financing to Canada Post, and Wall Street banks preparing to sell billions of dollars of X loans. Additionally, SpaceX's stock has tanked 16% and Amazon is willing to discuss Quebec shutdown with Canadian officials.",
+      "emerging_narrative": "The business and finance sector is experiencing a period of significant change, driven by technological advancements, geopolitical developments, and shifting market trends.",
+      "contrarian_note": "Canada Post's $720 million financing could be a catalyst for AI-powered logistics disruption, creating a hidden investment opportunity",
+      "impact_scores": [],
+      "tags": [
+        "BUSINESS & FINANCE",
+        "Tech",
+        "Finance",
+        "Transportation",
+        "AI"
+      ]
+    },
+    {
       "date": "2026-06-22",
       "sector": "INDIA POLICY",
       "headline_themes": [
