@@ -2,6 +2,68 @@
   "version": 2,
   "entries": [
     {
+      "date": "2026-06-24",
+      "sector": "INDIA POLICY",
+      "headline_themes": [
+        "India",
+        "However",
+        "Indian"
+      ],
+      "expert_summary": "The US and India are close to signing a historic trade deal, which may have significant implications for India's trade relationships with the US and other nations. The deal may lead to increased trade and investment between the two nations, particularly in areas such as AI, critical minerals, and pharmaceuticals. However, the deal may also lead to increased competition for Indian firms and potential trade deficits.",
+      "emerging_narrative": "The US and India are close to signing a historic trade deal, which may have significant implications for India's trade relationships with the US and other nations. The deal may lead to increased trade and investment between the two nations, but may also lead to increased competition and potential tr",
+      "contrarian_note": "The US-India trade deal may lead to increased competition for Indian firms, but also to increased investment in Indian SMEs",
+      "impact_scores": [],
+      "tags": [
+        "INDIA POLICY",
+        "Technology",
+        "Pharmaceuticals",
+        "Energy",
+        "Infrastructure",
+        "AI",
+        "US"
+      ]
+    },
+    {
+      "date": "2026-06-24",
+      "sector": "BUSINESS & FINANCE",
+      "headline_themes": [
+        "Ukraine",
+        "Russia",
+        "Putin",
+        "This"
+      ],
+      "expert_summary": "Ukraine's military successes and political victories are increasing the cost of war for Russia, testing Putin's resolve and potentially leading to a shift in the global balance of power. This development may have significant implications for global trade and economic stability. The conflict may also lead to increased investment in defense and security sectors.",
+      "emerging_narrative": "The conflict between Ukraine and Russia is leading to a shift in the global balance of power, with significant implications for international relations, trade agreements, and global economic stability.",
+      "contrarian_note": "The Ukraine-Russia conflict may lead to a shift in the global balance of power, but also to increased investment in sustainable technologies",
+      "impact_scores": [],
+      "tags": [
+        "BUSINESS & FINANCE",
+        "Energy",
+        "Defense",
+        "Finance"
+      ]
+    },
+    {
+      "date": "2026-06-24",
+      "sector": "INDIA FINANCE",
+      "headline_themes": [
+        "Indian",
+        "This"
+      ],
+      "expert_summary": "Indian investors are increasing margin trading, pushing the MTF book to a record high, despite stagnant market turnover and heavy FII outflows, raising concerns about a potential market bubble. This trend may be driven by speculation and leverage, rather than fundamental market growth. The Indian finance sector may face significant risks if the market corrects.",
+      "emerging_narrative": "The Indian finance sector is experiencing a surge in margin trading, which may be driven by speculative investments and leverage. This trend may be unsustainable and could lead to a market correction, with significant implications for the Indian economy.",
+      "contrarian_note": "Indian finance sector's surge in margin trading may be driven by speculative investments, but a market correction may be mitigated by effective regulations",
+      "impact_scores": [],
+      "tags": [
+        "INDIA FINANCE",
+        "Finance",
+        "Technology",
+        "MTF",
+        "RBI",
+        "SEBI"
+      ]
+    },
+    {
       "date": "2026-06-23",
       "sector": "INDIA POLICY",
       "headline_themes": [
