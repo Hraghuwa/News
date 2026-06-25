@@ -2,6 +2,78 @@
   "version": 2,
   "entries": [
     {
+      "date": "2026-06-25",
+      "sector": "INDIA FINANCE",
+      "headline_themes": [
+        "Indian",
+        "These",
+        "India",
+        "Japan",
+        "Dharmesh",
+        "Kant"
+      ],
+      "expert_summary": "The Indian finance sector is experiencing significant developments, including commodity corrections offering buying opportunities, Japan's super-long bonds briefly changing course to fall after a weak auction, and market expert Dharmesh Kant's views on defence and banking as long-term bets. These events have implications for India's growth, global demand, and the country's defence and banking sectors.",
+      "emerging_narrative": "The Indian finance sector is experiencing significant developments, including commodity corrections offering buying opportunities, growth in the defence and banking sectors, and implications for global economic trends. These events have implications for India's growth and the country's defence and b",
+      "contrarian_note": "India's defence sector may be a hidden gem for investors looking for growth opportunities",
+      "impact_scores": [],
+      "tags": [
+        "INDIA FINANCE",
+        "Finance",
+        "Energy"
+      ]
+    },
+    {
+      "date": "2026-06-25",
+      "sector": "TECHNOLOGY",
+      "headline_themes": [
+        "These",
+        "Cerebras",
+        "Europe",
+        "Washington",
+        "Infosys",
+        "Vishal",
+        "Sikka"
+      ],
+      "expert_summary": "The tech industry is experiencing significant developments, including Cerebras' stock plunge after earnings, Europe's pushback on Washington's chip war, and the launch of a new startup by former Infosys chief Vishal Sikka. These events have implications for the AI chip market, global trade relationships, and the IT services world.",
+      "emerging_narrative": "The tech industry is experiencing significant developments, including a shift in the AI chip market, resistance to US trade policies, and growth in the IT services world. These events have implications for global trade relationships and the tech industry.",
+      "contrarian_note": "Europe's pushback on the US chip war may be a catalyst for the development of alternative AI chip technologies",
+      "impact_scores": [],
+      "tags": [
+        "TECHNOLOGY",
+        "Tech",
+        "Finance",
+        "AI",
+        "US",
+        "IT"
+      ]
+    },
+    {
+      "date": "2026-06-25",
+      "sector": "BUSINESS & FINANCE",
+      "headline_themes": [
+        "Strait",
+        "Hormuz",
+        "These",
+        "Global",
+        "Iran",
+        "Hynix",
+        "Micron",
+        "Venezuela"
+      ],
+      "expert_summary": "Global markets are experiencing significant developments, including Iran's warning to ships in the Strait of Hormuz, SK Hynix's surge in stock price, and Micron's increased gross margin. These events have implications for trade relationships, global oil prices, and the tech industry. The US is also offering assistance to Venezuela after historic earthquakes, reflecting a degree of diplomatic realignment.",
+      "emerging_narrative": "The global economy is experiencing significant developments, including increased tensions in the Strait of Hormuz, a memory crisis in the tech industry, and diplomatic realignments. These events have implications for trade relationships, global oil prices, and the tech industry.",
+      "contrarian_note": "The Strait of Hormuz tensions may be a buying opportunity for alternative energy stocks",
+      "impact_scores": [],
+      "tags": [
+        "BUSINESS & FINANCE",
+        "Energy",
+        "Tech",
+        "Finance",
+        "SK",
+        "US"
+      ]
+    },
+    {
       "date": "2026-06-24",
       "sector": "INDIA POLICY",
       "headline_themes": [
