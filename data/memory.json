@@ -2,6 +2,29 @@
   "version": 2,
   "entries": [
     {
+      "date": "2026-06-27",
+      "sector": "BUSINESS & FINANCE",
+      "headline_themes": [
+        "Iran",
+        "Tehran",
+        "Strait",
+        "Hormuz",
+        "This"
+      ],
+      "expert_summary": "The US has struck Iran after accusing Tehran of violating a ceasefire in the Strait of Hormuz, potentially derailing a 60-day period of no hostilities and escalating tensions in the region. This development may have significant implications for global oil prices and financial markets. The attack comes as the US and Iran were engaging in talks to end their war.",
+      "emerging_narrative": "The recurring pattern of escalation and de-escalation in the US-Iran conflict is leading to increased uncertainty and volatility in global markets, with potential implications for trade relationships and energy prices.",
+      "contrarian_note": "The real threat to global markets may not be oil price spikes, but Iranian cyberattacks on US financial infrastructure",
+      "impact_scores": [],
+      "tags": [
+        "BUSINESS & FINANCE",
+        "Energy",
+        "Finance",
+        "Transportation",
+        "AI",
+        "US"
+      ]
+    },
+    {
       "date": "2026-06-26",
       "sector": "lenses",
       "headline_themes": [],
