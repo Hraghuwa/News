@@ -2,6 +2,65 @@
   "version": 2,
   "entries": [
     {
+      "date": "2026-06-30",
+      "sector": "TECHNOLOGY",
+      "headline_themes": [
+        "Meanwhile"
+      ],
+      "expert_summary": "The technology sector is experiencing significant investments in AI coding startups, with VCs remaining thirsty to fund these startups. Meanwhile, companies such as Base44 are launching their own AI models to seek defensibility.",
+      "emerging_narrative": "The technology sector is experiencing significant investments in AI coding startups, but the potential for a US market correction and the growth of AI technology could have implications for overall market sentiment and economic stability.",
+      "contrarian_note": "The AI coding startup boom may be the catalyst for a software industry shakeout",
+      "impact_scores": [],
+      "tags": [
+        "TECHNOLOGY",
+        "Tech",
+        "Finance",
+        "AI",
+        "US"
+      ]
+    },
+    {
+      "date": "2026-06-30",
+      "sector": "BUSINESS & FINANCE",
+      "headline_themes": [
+        "Japanese",
+        "China",
+        "Meanwhile"
+      ],
+      "expert_summary": "The business and finance sector is experiencing significant developments, including the Japanese yen hitting a 40-year low against the US dollar, and China's factory activity growing faster than expected due to tech export demand. Meanwhile, market strategists are warning of a potential US market correction amid AI spending boom.",
+      "emerging_narrative": "The business and finance sector is experiencing significant developments, but external factors such as the strong US dollar and potential US market correction could impact market sentiment and overall economic stability.",
+      "contrarian_note": "China's tech boom may be the key to unlocking a commodity price surge",
+      "impact_scores": [],
+      "tags": [
+        "BUSINESS & FINANCE",
+        "Finance",
+        "Tech",
+        "Energy",
+        "AI",
+        "US"
+      ]
+    },
+    {
+      "date": "2026-06-30",
+      "sector": "INDIA FINANCE",
+      "headline_themes": [
+        "Indian",
+        "Japanese",
+        "Meanwhile"
+      ],
+      "expert_summary": "The Indian finance sector is experiencing a surge in bond yields due to foreign demand and declining oil prices, while the strong US dollar is pushing the Japanese yen to a 40-year low, sparking intervention fears. Meanwhile, market strategists are warning of a potential US market correction amid AI spending boom.",
+      "emerging_narrative": "The Indian finance sector is experiencing a surge in bond yields due to foreign demand and declining oil prices, but external factors such as the strong US dollar and potential US market correction could impact market sentiment.",
+      "contrarian_note": "India's bond market may be the surprise beneficiary of Japan's currency woes",
+      "impact_scores": [],
+      "tags": [
+        "INDIA FINANCE",
+        "Finance",
+        "Energy",
+        "AI",
+        "US"
+      ]
+    },
+    {
       "date": "2026-06-29",
       "sector": "BUSINESS & FINANCE",
       "headline_themes": [
