@@ -2,6 +2,26 @@
   "version": 2,
   "entries": [
     {
+      "date": "2026-07-01",
+      "sector": "BUSINESS & FINANCE",
+      "headline_themes": [
+        "Europe",
+        "Iran"
+      ],
+      "expert_summary": "Europe's defense industry is facing a test in delivering weapons despite increased budgets and backlogs, while Iran is selling oil at a 20% premium after the end of the US blockade, with 40 million barrels exported",
+      "emerging_narrative": "The interplay between global geopolitics, defense spending, and energy markets is becoming increasingly complex, with potential implications for global trade and economic stability",
+      "contrarian_note": "Iran's newfound oil wealth could fuel a domestic defense boom, upending regional dynamics and creating unexpected investment opportunities",
+      "impact_scores": [],
+      "tags": [
+        "BUSINESS & FINANCE",
+        "Energy",
+        "Defense",
+        "Finance",
+        "AI",
+        "US"
+      ]
+    },
+    {
       "date": "2026-06-30",
       "sector": "TECHNOLOGY",
       "headline_themes": [
