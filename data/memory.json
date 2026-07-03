@@ -2,6 +2,50 @@
   "version": 2,
   "entries": [
     {
+      "date": "2026-07-03",
+      "sector": "INDIA POLICY",
+      "headline_themes": [
+        "Israel",
+        "Indian",
+        "India",
+        "Iran",
+        "This",
+        "Middle",
+        "East"
+      ],
+      "expert_summary": "The US warned Iran of Israel's plan to kill its top negotiators, highlighting strained ties between the US and Israel, and potentially affecting the US-Iran relationship. This development may have significant implications for India's trade relationships with the US and other nations. The US-India trade deal may be impacted by the US's actions in the Middle East.",
+      "emerging_narrative": "The strained ties between the US and Israel may lead to increased investment in Indian tech startups and affect the US-India trade deal, potentially leading to increased competition for Indian businesses in the global market.",
+      "contrarian_note": "India's strategic relationships with the US and Iran could position it as a key player in regional trade and diplomacy, driving economic growth and investment opportunities",
+      "impact_scores": [],
+      "tags": [
+        "INDIA POLICY",
+        "Finance",
+        "Energy",
+        "Defense",
+        "US"
+      ]
+    },
+    {
+      "date": "2026-07-03",
+      "sector": "BUSINESS & FINANCE",
+      "headline_themes": [
+        "Covid",
+        "This"
+      ],
+      "expert_summary": "The labor force participation rate has fallen to its lowest in 50 years, excluding the Covid era, indicating a potentially alarming trend in the job market, despite a drop in the unemployment rate. This could have significant implications for the economy and financial markets. The report's downbeat tone may affect investor sentiment and market performance.",
+      "emerging_narrative": "The declining labor force participation rate may be a sign of a larger economic trend, potentially leading to increased investment in automation and AI technologies, and affecting global markets and trade alliances.",
+      "contrarian_note": "The decline in labor force participation may be a catalyst for a new wave of innovation in workforce development and flexible work arrangements",
+      "impact_scores": [],
+      "tags": [
+        "BUSINESS & FINANCE",
+        "Finance",
+        "Tech",
+        "Manufacturing",
+        "AI",
+        "US"
+      ]
+    },
+    {
       "date": "2026-07-02",
       "sector": "INDIA FINANCE",
       "headline_themes": [
