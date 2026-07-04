@@ -2,6 +2,76 @@
   "version": 2,
   "entries": [
     {
+      "date": "2026-07-04",
+      "sector": "INDIA POLICY",
+      "headline_themes": [
+        "Indian",
+        "Delhi",
+        "This",
+        "India"
+      ],
+      "expert_summary": "The Indian policy landscape is experiencing significant developments, including the withdrawal of the WFH and staggered office timings order in Delhi. This event may have implications for the workforce and office culture in India.",
+      "emerging_narrative": "The Indian policy landscape is experiencing significant developments, with the withdrawal of the WFH order indicating a shift towards more traditional office culture. The sector may be vulnerable to external shocks, but the Indian government's policies may continue to support growth.",
+      "contrarian_note": "",
+      "impact_scores": [],
+      "tags": [
+        "INDIA POLICY",
+        "Workforce",
+        "Office Culture",
+        "WFH"
+      ]
+    },
+    {
+      "date": "2026-07-04",
+      "sector": "INDIA FINANCE",
+      "headline_themes": [
+        "Indian",
+        "Reliance",
+        "Industries",
+        "Bank",
+        "These"
+      ],
+      "expert_summary": "The Indian finance sector is experiencing significant developments, including Reliance Industries' market value equaling the top five IT companies combined and Yes Bank's Q1 business update. These events may have implications for the IT and banking sectors.",
+      "emerging_narrative": "The Indian finance sector is experiencing significant developments, with the IT sector facing challenges and Reliance Industries' market value growing. The sector may be vulnerable to external shocks, but the Indian government's policies may continue to support growth.",
+      "contrarian_note": "",
+      "impact_scores": [],
+      "tags": [
+        "INDIA FINANCE",
+        "IT",
+        "Banking",
+        "AI",
+        "US",
+        "PLI"
+      ]
+    },
+    {
+      "date": "2026-07-04",
+      "sector": "BUSINESS & FINANCE",
+      "headline_themes": [
+        "SpaceX",
+        "Iran",
+        "Canada",
+        "Post",
+        "These",
+        "Additionally",
+        "Amazon",
+        "Quebec"
+      ],
+      "expert_summary": "The business and finance sector is experiencing significant developments, including government financing for Canada Post, potential sales of billions of dollars of X loans, and SpaceX's record IPO. These events may have implications for the logistics, banking, and tech industries. Additionally, Amazon's willingness to discuss its Quebec shutdown with Canadian officials and Target's decision to drop DEI goals may impact the retail sector.",
+      "emerging_narrative": "The business and finance landscape is due for a correction, with the focus on SpaceX and AI-powered apps obscuring underlying risks. The surge in SpaceX's stock value and the impact of the US-Iran deal on global markets may also have implications for the tech and finance sectors.",
+      "contrarian_note": "",
+      "impact_scores": [],
+      "tags": [
+        "BUSINESS & FINANCE",
+        "Finance",
+        "Tech",
+        "Logistics",
+        "IPO",
+        "AI",
+        "US"
+      ]
+    },
+    {
       "date": "2026-07-03",
       "sector": "INDIA POLICY",
       "headline_themes": [
