@@ -2,6 +2,30 @@
   "version": 2,
   "entries": [
     {
+      "date": "2026-07-05",
+      "sector": "BUSINESS & FINANCE",
+      "headline_themes": [
+        "Wall",
+        "Street",
+        "This"
+      ],
+      "expert_summary": "The business and finance sector is witnessing significant developments, including Wall Street banks preparing to sell billions of dollars of X loans, and recent AI-related IPO filings, which may have substantial implications for the market. This could lead to a shift in investor sentiment and potential opportunities for contrarian investors. The sale of X loans at a discounted price may also impact the overall financial health of the banks.",
+      "emerging_narrative": "A pattern of AI-related developments and their impact on the financial markets is emerging, with potential implications for regulatory scrutiny, investor sentiment, and economic policies.",
+      "contrarian_note": "The X loan sell-off is not just a one-time event, but a canary in the coal mine for a broader financial sector crisis",
+      "impact_scores": [],
+      "tags": [
+        "BUSINESS & FINANCE",
+        "Finance",
+        "Technology",
+        "Banking",
+        "AI",
+        "IPO",
+        "FX",
+        "RBI",
+        "SEBI"
+      ]
+    },
+    {
       "date": "2026-07-04",
       "sector": "INDIA POLICY",
       "headline_themes": [
