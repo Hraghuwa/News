@@ -2,6 +2,97 @@
   "version": 2,
   "entries": [
     {
+      "date": "2026-07-06",
+      "sector": "INDIA POLICY",
+      "headline_themes": [
+        "Indian",
+        "This",
+        "India"
+      ],
+      "expert_summary": "The Indian government is tapping drugmakers to supply morphine for battlefield care, highlighting the country's dominance in legal opium production. This move may have implications for India's pharmaceutical sector and its ability to supply essential medicines globally.",
+      "emerging_narrative": "The Indian government's move to tap drugmakers highlights the country's dominance in legal opium production and its ability to supply essential medicines globally. This may have positive implications for the country's pharmaceutical sector and its economy.",
+      "contrarian_note": "India's dominance in legal opium production could create new geopolitical risks and challenges, and alternative pain management solutions may see increased demand",
+      "impact_scores": [],
+      "tags": [
+        "INDIA POLICY",
+        "Pharmaceuticals",
+        "Healthcare"
+      ]
+    },
+    {
+      "date": "2026-07-06",
+      "sector": "TECHNOLOGY",
+      "headline_themes": [
+        "However",
+        "Trump",
+        "Agility",
+        "Robotics",
+        "SPAC"
+      ],
+      "expert_summary": "The tech sector is experiencing significant developments, with Trump memecoin investors losing $3.8 billion and a humanoid robotics company going public. Agility Robotics is betting its future on execution and a SPAC, rather than promising a robot in every home.",
+      "emerging_narrative": "The tech sector is experiencing significant volatility, with investors losing billions of dollars in speculative investments. However, the sector is also experiencing growth and innovation, particularly in areas such as AI and robotics.",
+      "contrarian_note": "Humanoid robotics could have a profound impact on traditional industries, beyond just consumer-facing applications",
+      "impact_scores": [],
+      "tags": [
+        "TECHNOLOGY",
+        "Tech",
+        "AI"
+      ]
+    },
+    {
+      "date": "2026-07-06",
+      "sector": "INDIA FINANCE",
+      "headline_themes": [
+        "Indian",
+        "Sensex",
+        "Nifty",
+        "Foreign",
+        "Institutional",
+        "Investors",
+        "Jefferies",
+        "Chris"
+      ],
+      "expert_summary": "Indian stock markets have rallied, with Sensex and Nifty extending their gains for a fourth straight session, driven by heavy rainfall and Foreign Institutional Investors turning net buyers. Jefferies strategist Chris Wood has warned that Wall Street's hyperscalers risk massive capital destruction from excessive AI spending.",
+      "emerging_narrative": "The Indian financial markets are experiencing a rally, driven by domestic factors, but are also vulnerable to global risks, such as excessive AI spending and geopolitical tensions.",
+      "contrarian_note": "India's pharmaceutical sector could be a surprise beneficiary of global market volatility and rising demand for essential medicines",
+      "impact_scores": [],
+      "tags": [
+        "INDIA FINANCE",
+        "Finance",
+        "Tech",
+        "AI",
+        "US"
+      ]
+    },
+    {
+      "date": "2026-07-06",
+      "sector": "BUSINESS & FINANCE",
+      "headline_themes": [
+        "Global",
+        "NATO",
+        "Wall",
+        "Street",
+        "Iran",
+        "Canadian",
+        "Canada",
+        "Post"
+      ],
+      "expert_summary": "Global defense spending and financial markets are experiencing significant developments, with NATO allies facing pressure to increase military spending, Wall Street banks preparing to sell billions of dollars of X loans, and Iran facing challenges in clearing its oil inventories. The Canadian government is providing $720 million to Canada Post to avoid insolvency, which could be a catalyst for AI-powered logistics disruption. The US-Iran peace talks have stalled, and the conflict between Russia ",
+      "emerging_narrative": "The intersection of geopolitics, financial markets, and technological disruption is creating new investment opportunities and challenges in the business and finance sector.",
+      "contrarian_note": "Rising global defense spending could lead to unexpected opportunities in niche logistics and defense tech companies",
+      "impact_scores": [],
+      "tags": [
+        "BUSINESS & FINANCE",
+        "Finance",
+        "Defense",
+        "Energy",
+        "Tech",
+        "AI",
+        "IPO",
+        "US"
+      ]
+    },
+    {
       "date": "2026-07-05",
       "sector": "BUSINESS & FINANCE",
       "headline_themes": [
