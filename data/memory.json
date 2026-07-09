@@ -2,6 +2,96 @@
   "version": 2,
   "entries": [
     {
+      "date": "2026-07-09",
+      "sector": "INDIA FINANCE",
+      "headline_themes": [
+        "Indian",
+        "Reliance",
+        "Meta",
+        "Canada"
+      ],
+      "expert_summary": "Meta has unveiled a $13 billion AI data centre in Canada, and Reliance is considering new investments to revive its shares. The US stock market is in focus due to the development of AI infrastructure.",
+      "emerging_narrative": "The growth of Indian companies like Reliance and the development of AI-powered data centres are leading to new investment opportunities and implications for Indian economic growth.",
+      "contrarian_note": "The development of AI-powered data centres in India could lead to increased cybersecurity risks, but also opportunities for companies that are working to mitigate these risks",
+      "impact_scores": [],
+      "tags": [
+        "INDIA FINANCE",
+        "Finance",
+        "Technology",
+        "Energy",
+        "AI"
+      ]
+    },
+    {
+      "date": "2026-07-09",
+      "sector": "TECHNOLOGY",
+      "headline_themes": [
+        "Lovable",
+        "Meta",
+        "Canada"
+      ],
+      "expert_summary": "The US government is demanding that autonomous vehicle companies stop interfering with first responders, and Lovable is reportedly in talks to double its valuation to $13.2 billion. Meta has unveiled a $13 billion AI data centre in Canada.",
+      "emerging_narrative": "The growth of autonomous vehicle companies and AI-powered data centres is leading to new investment opportunities and implications for global data storage and security.",
+      "contrarian_note": "The development of autonomous vehicle technology could lead to widespread job losses, but also opportunities for companies that are working to mitigate these impacts",
+      "impact_scores": [],
+      "tags": [
+        "TECHNOLOGY",
+        "Technology",
+        "Finance",
+        "Energy",
+        "AI"
+      ]
+    },
+    {
+      "date": "2026-07-09",
+      "sector": "INDIA POLICY",
+      "headline_themes": [
+        "India",
+        "Zealand",
+        "Free",
+        "Trade",
+        "Agreement",
+        "Iran",
+        "Indian"
+      ],
+      "expert_summary": "India has signed a Free Trade Agreement with New Zealand, aiming to enhance economic relations and target a trade increase to five billion dollars in five years. The US has launched strikes against Iran, but the implications for Indian finance are limited.",
+      "emerging_narrative": "India's growing trade relationships with countries like New Zealand are providing new opportunities for economic growth and expansion.",
+      "contrarian_note": "India's growing trade relationships could lead to increased competition for Indian businesses, but also opportunities for those that are well-prepared",
+      "impact_scores": [],
+      "tags": [
+        "INDIA POLICY",
+        "Trade",
+        "Finance",
+        "Technology",
+        "FTA",
+        "US"
+      ]
+    },
+    {
+      "date": "2026-07-09",
+      "sector": "BUSINESS & FINANCE",
+      "headline_themes": [
+        "Iran",
+        "Global",
+        "NATO",
+        "Middle",
+        "East",
+        "Wall",
+        "Street"
+      ],
+      "expert_summary": "Global defense spending and financial markets are experiencing significant developments, with NATO allies facing pressure to increase military spending and oil prices fluctuating due to US-Iran tensions. The US has launched fresh strikes against Iran, renewing concerns about supply disruptions in the Middle East. Wall Street banks are preparing to sell billions of dollars of debt at a discount.",
+      "emerging_narrative": "The increasing use of drones in conflict zones and the escalating US-Iran conflict are causing significant developments in global defense spending and financial markets.",
+      "contrarian_note": "A swift resolution to the US-Iran conflict could lead to a decrease in defense spending and an increase in renewable energy investment",
+      "impact_scores": [],
+      "tags": [
+        "BUSINESS & FINANCE",
+        "Defense",
+        "Energy",
+        "Finance",
+        "US"
+      ]
+    },
+    {
       "date": "2026-07-08",
       "sector": "lenses",
       "headline_themes": [],
