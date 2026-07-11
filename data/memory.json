@@ -2,6 +2,28 @@
   "version": 2,
   "entries": [
     {
+      "date": "2026-07-11",
+      "sector": "BUSINESS & FINANCE",
+      "headline_themes": [
+        "Iran",
+        "Apple",
+        "OpenAI",
+        "Global"
+      ],
+      "expert_summary": "The US-Iran peace deal may impact global markets, while Apple is suing OpenAI for trade secret theft, potentially disrupting their partnership. The peace deal could lead to changes in oil prices, and the lawsuit may affect the tech industry. Global markets are watching these developments closely.",
+      "emerging_narrative": "A pattern of geopolitical shifts and tech industry disruptions is emerging, with potential implications for global markets and trade relationships.",
+      "contrarian_note": "The US-Iran peace deal could be a catalyst for Indian tech growth, not just a disruptor of global oil markets",
+      "impact_scores": [],
+      "tags": [
+        "BUSINESS & FINANCE",
+        "Energy",
+        "Tech",
+        "Finance",
+        "AI",
+        "US"
+      ]
+    },
+    {
       "date": "2026-07-10",
       "sector": "BUSINESS & FINANCE",
       "headline_themes": [
