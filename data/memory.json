@@ -2,6 +2,27 @@
   "version": 2,
   "entries": [
     {
+      "date": "2026-07-12",
+      "sector": "BUSINESS & FINANCE",
+      "headline_themes": [
+        "Iran",
+        "Apple",
+        "OpenAI"
+      ],
+      "expert_summary": "The US-Iran conflict is escalating with airstrikes and ship attacks, while Apple is suing OpenAI for trade secret theft, potentially disrupting their partnership and impacting the tech industry. The US-Iran peace deal may have significant implications for global markets, including oil prices and cybersecurity. The conflict and the lawsuit may lead to changes in the global economy and the tech industry.",
+      "emerging_narrative": "The US-Iran conflict is escalating, with potential implications for global markets, cybersecurity, and the tech industry. The Apple-OpenAI lawsuit may disrupt the tech industry, especially the AI sector.",
+      "contrarian_note": "The US-Iran conflict could be a boon for China's tech industry, making it a prime opportunity for contrarian investors.",
+      "impact_scores": [],
+      "tags": [
+        "BUSINESS & FINANCE",
+        "Tech",
+        "Energy",
+        "Finance",
+        "AI",
+        "US"
+      ]
+    },
+    {
       "date": "2026-07-11",
       "sector": "BUSINESS & FINANCE",
       "headline_themes": [
