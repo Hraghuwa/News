@@ -2,6 +2,27 @@
   "version": 2,
   "entries": [
     {
+      "date": "2026-07-16",
+      "sector": "INDIA POLICY",
+      "headline_themes": [
+        "Rohingya",
+        "India",
+        "Myanmar"
+      ],
+      "expert_summary": "Two boats carrying Rohingya refugees from Myanmar have capsized, resulting in over 500 feared dead, highlighting the ongoing humanitarian crisis in the region and potentially impacting India's foreign policy and relations with neighboring countries. The incident may lead to increased pressure on India to provide aid and support to the affected communities. The US-India trade deal may also be influenced by this development, as it could lead to increased scrutiny of India's human rights record.",
+      "emerging_narrative": "The ongoing humanitarian crisis in the region, particularly with regards to the Rohingya refugees, is likely to continue to be a major concern for India and the international community, with potential implications for trade relationships, foreign policy, and economic growth.",
+      "contrarian_note": "India's proactive response to the Rohingya crisis could be a catalyst for a favorable US-India trade deal",
+      "impact_scores": [],
+      "tags": [
+        "INDIA POLICY",
+        "Shipping and Logistics",
+        "Finance",
+        "International Trade",
+        "AI",
+        "US"
+      ]
+    },
+    {
       "date": "2026-07-15",
       "sector": "lenses",
       "headline_themes": [],
