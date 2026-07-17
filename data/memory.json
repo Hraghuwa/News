@@ -2,6 +2,94 @@
   "version": 2,
   "entries": [
     {
+      "date": "2026-07-17",
+      "sector": "TECHNOLOGY",
+      "headline_themes": [
+        "SpaceX",
+        "Starship",
+        "Coca",
+        "Cola",
+        "These"
+      ],
+      "expert_summary": "The technology sector is experiencing significant developments, including SpaceX's Starship V3 launch abort and Coca-Cola's ransomware attack. These events may have implications for the tech industry and global markets.",
+      "emerging_narrative": "The technology sector is experiencing significant developments that highlight the complexities and risks of the tech industry, with potential implications for global trade, geopolitics, and financial markets.",
+      "contrarian_note": "SpaceX's Starship V3 launch abort could be a catalyst for a shift in the commercial space industry and global telecommunications",
+      "impact_scores": [],
+      "tags": [
+        "TECHNOLOGY",
+        "Tech",
+        "Finance",
+        "Trade"
+      ]
+    },
+    {
+      "date": "2026-07-17",
+      "sector": "INDIA FINANCE",
+      "headline_themes": [
+        "India",
+        "Chinese",
+        "These"
+      ],
+      "expert_summary": "The India finance sector is experiencing significant developments, including the Chinese market's liquidity crunch fears and the implications for global market volatility. These events may have implications for India's financial markets and economy.",
+      "emerging_narrative": "The India finance sector is experiencing significant developments that highlight the complexities of global financial markets and the potential implications for India's economy and trade relationships.",
+      "contrarian_note": "The Chinese market's liquidity crunch could be a catalyst for a credit crunch in India's shadow banking sector",
+      "impact_scores": [],
+      "tags": [
+        "INDIA FINANCE",
+        "Finance",
+        "Tech",
+        "Trade"
+      ]
+    },
+    {
+      "date": "2026-07-17",
+      "sector": "INDIA POLICY",
+      "headline_themes": [
+        "India",
+        "Brazil",
+        "Trump",
+        "These"
+      ],
+      "expert_summary": "The India policy sector is experiencing significant developments, including the US citing Brazil's tariff concessions to India as a reason for imposing a 25% import duty, and Trump's claims of non-citizens voting in federal elections. These events may have implications for India's trade relationships and regulatory environment.",
+      "emerging_narrative": "The India policy sector is experiencing significant developments that highlight the complexities of global trade, geopolitics, and regulatory environment, with potential implications for India's economic growth and development.",
+      "contrarian_note": "The US-Brazil trade tensions could be a boon for India's agricultural exports and trade relationships",
+      "impact_scores": [],
+      "tags": [
+        "INDIA POLICY",
+        "Trade",
+        "Finance",
+        "Tech",
+        "US"
+      ]
+    },
+    {
+      "date": "2026-07-17",
+      "sector": "BUSINESS & FINANCE",
+      "headline_themes": [
+        "Trump",
+        "China",
+        "Wall",
+        "Street",
+        "These",
+        "Canada",
+        "Post",
+        "Amazon"
+      ],
+      "expert_summary": "The business and finance sector is experiencing significant developments, including Trump's claims of China meddling in the 2020 election, Xi's pitch for China as an AI partner to the developing world, and Wall Street banks preparing to sell billions of dollars of X loans. These events may have implications for global markets and trade. Canada's $720 million financing to Canada Post and Amazon's willingness to discuss Quebec shutdown with Canadian officials also highlight the complexities of the",
+      "emerging_narrative": "The business and finance sector is experiencing significant developments that highlight the complexities of global trade, technology, and geopolitics, with potential implications for market volatility, competition, and regulation.",
+      "contrarian_note": "Canada's $720 million financing to Canada Post could be a catalyst for a logistics industry disruption",
+      "impact_scores": [],
+      "tags": [
+        "BUSINESS & FINANCE",
+        "Finance",
+        "Tech",
+        "Logistics",
+        "AI",
+        "IPO",
+        "US"
+      ]
+    },
+    {
       "date": "2026-07-16",
       "sector": "INDIA POLICY",
       "headline_themes": [
