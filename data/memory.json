@@ -2,6 +2,73 @@
   "version": 2,
   "entries": [
     {
+      "date": "2026-07-18",
+      "sector": "TECHNOLOGY",
+      "headline_themes": [
+        "These",
+        "Databricks"
+      ],
+      "expert_summary": "The technology sector is experiencing significant developments, including Databricks' $188B valuation and research on open weight AI models. These developments indicate a shift in the technology landscape, with AI and machine learning becoming increasingly important.",
+      "emerging_narrative": "The technology sector is experiencing significant developments, driven by advancements in AI and machine learning. These developments could lead to opportunities for startups and investors, but also pose risks to established companies and industries.",
+      "contrarian_note": "Open weight AI models could democratize AI access, disrupting the dominance of large tech companies",
+      "impact_scores": [],
+      "tags": [
+        "TECHNOLOGY",
+        "Technology",
+        "AI",
+        "Machine Learning",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "date": "2026-07-18",
+      "sector": "INDIA FINANCE",
+      "headline_themes": [
+        "India",
+        "These",
+        "Indian",
+        "Iran",
+        "Treasury"
+      ],
+      "expert_summary": "The India finance sector is experiencing developments related to oil prices, US-Iran hostilities, and US Treasury yields. These developments could have implications for Indian companies operating in the energy and finance spaces.",
+      "emerging_narrative": "The India finance sector is experiencing developments related to global economic trends, geopolitical tensions, and changes in energy prices. These developments could lead to opportunities for Indian companies, but also pose risks to the Indian economy.",
+      "contrarian_note": "Indian energy companies could thrive amidst US-Iran tensions, driven by increasing oil prices",
+      "impact_scores": [],
+      "tags": [
+        "INDIA FINANCE",
+        "Energy",
+        "Finance",
+        "Renewable Energy",
+        "US"
+      ]
+    },
+    {
+      "date": "2026-07-18",
+      "sector": "BUSINESS & FINANCE",
+      "headline_themes": [
+        "These",
+        "White",
+        "House",
+        "Canada",
+        "Post",
+        "Wall",
+        "Street"
+      ],
+      "expert_summary": "The business and finance sector is experiencing significant developments, including the White House controlling access to frontier AI models, Canada providing $720 million to Canada Post, and Wall Street banks preparing to sell billions of dollars of X loans. These developments indicate a shift in power dynamics and potential disruptions in the logistics and finance industries.",
+      "emerging_narrative": "The business and finance sector is experiencing significant disruptions, driven by technological advancements, geopolitical tensions, and changes in consumer behavior. These developments could lead to opportunities for startups and investors, but also pose risks to established companies and industri",
+      "contrarian_note": "The White House's AI model control could be a catalyst for logistics disruption, benefiting agile companies",
+      "impact_scores": [],
+      "tags": [
+        "BUSINESS & FINANCE",
+        "Finance",
+        "Logistics",
+        "Retail",
+        "E-commerce",
+        "AI",
+        "US"
+      ]
+    },
+    {
       "date": "2026-07-17",
       "sector": "TECHNOLOGY",
       "headline_themes": [
