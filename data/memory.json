@@ -2,6 +2,27 @@
   "version": 2,
   "entries": [
     {
+      "date": "2026-07-19",
+      "sector": "BUSINESS & FINANCE",
+      "headline_themes": [
+        "Iran",
+        "Jordan",
+        "President"
+      ],
+      "expert_summary": "The US-Iran peace agreement has been called off, leading to increased tensions and potential escalation in the region, with significant implications for global oil prices and financial markets. The situation is further complicated by the killing of two US service members in Jordan and Iran's threat of 'unforgettable lessons'. The US President's response suggests a lack of concern, which may exacerbate the situation.",
+      "emerging_narrative": "The US-Iran peace agreement has collapsed, leading to increased tensions and potential escalation in the region, with significant implications for global oil prices, financial markets, and regional power dynamics.",
+      "contrarian_note": "",
+      "impact_scores": [],
+      "tags": [
+        "BUSINESS & FINANCE",
+        "Energy",
+        "Finance",
+        "Defense",
+        "Tech",
+        "US"
+      ]
+    },
+    {
       "date": "2026-07-18",
       "sector": "TECHNOLOGY",
       "headline_themes": [
