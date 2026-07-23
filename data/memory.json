@@ -2,6 +2,30 @@
   "version": 2,
   "entries": [
     {
+      "date": "2026-07-23",
+      "sector": "BUSINESS & FINANCE",
+      "headline_themes": [
+        "Iran",
+        "Saudi",
+        "Arabia",
+        "Trump",
+        "Iranian",
+        "This"
+      ],
+      "expert_summary": "Oil prices are increasing due to rising tensions between the US and Iran, exacerbated by a tanker being struck off Saudi Arabia and Trump's threats to bomb Iranian infrastructure. This escalation may lead to significant risks for global oil prices and financial markets. The situation is precarious, with potential for further conflict and market volatility.",
+      "emerging_narrative": "The US-Iran conflict is escalating, posing significant risks to global oil prices and financial markets, with potential implications for energy security, trade, and economic growth.",
+      "contrarian_note": "Russia's increased oil production could be the wildcard that stabilizes global oil prices despite US-Iran tensions",
+      "impact_scores": [],
+      "tags": [
+        "BUSINESS & FINANCE",
+        "Energy",
+        "Finance",
+        "Transportation",
+        "US",
+        "FX"
+      ]
+    },
+    {
       "date": "2026-07-22",
       "sector": "INDIA POLICY",
       "headline_themes": [
