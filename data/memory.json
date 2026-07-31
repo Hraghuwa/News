@@ -2,6 +2,29 @@
   "version": 2,
   "entries": [
     {
+      "date": "2026-07-31",
+      "sector": "INDIA FINANCE",
+      "headline_themes": [
+        "India",
+        "Amazon",
+        "Indian",
+        "However"
+      ],
+      "expert_summary": "Amazon's strong earnings report, driven by AI and cloud growth, is boosting investor confidence and may have a positive impact on the Indian finance sector. However, the global tech selloff is having a ripple effect on the Indian market. India's finance sector may benefit from a weaker US tech earnings report, as foreign investors seek growth in emerging markets like India.",
+      "emerging_narrative": "The growth of AI and cloud demand is driving long-term growth and profitability for big tech companies, and India's finance sector may benefit from a weaker US tech earnings report, as foreign investors seek growth in emerging markets like India.",
+      "contrarian_note": "India's fintech revolution, driven by AI and cloud, may disrupt traditional banking and create new investment opportunities",
+      "impact_scores": [],
+      "tags": [
+        "INDIA FINANCE",
+        "Tech",
+        "Finance",
+        "Cloud Computing",
+        "AI",
+        "US",
+        "PLI"
+      ]
+    },
+    {
       "date": "2026-07-30",
       "sector": "BUSINESS & FINANCE",
       "headline_themes": [
