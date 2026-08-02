@@ -2,6 +2,45 @@
   "version": 2,
   "entries": [
     {
+      "date": "2026-08-02",
+      "sector": "BUSINESS & FINANCE",
+      "headline_themes": [
+        "Iran",
+        "Americans"
+      ],
+      "expert_summary": "The US and Iran are on the brink of potential military action, with embassies warning Americans of travel risks, and the situation may lead to increased volatility in global oil prices and financial markets",
+      "emerging_narrative": "The US-Iran conflict may lead to a significant shift in global geopolitics, with potential implications for trade, energy, and financial markets",
+      "contrarian_note": "",
+      "impact_scores": [],
+      "tags": [
+        "BUSINESS & FINANCE",
+        "Energy",
+        "Finance",
+        "Defense",
+        "US"
+      ]
+    },
+    {
+      "date": "2026-08-02",
+      "sector": "INDIA POLICY",
+      "headline_themes": [
+        "India",
+        "Iran"
+      ],
+      "expert_summary": "The execution of a 20-year-old protester in Iran has renewed fears for other detainees on death row, despite calls from the UN to halt such executions, but does not have direct implications for India's policy, however, India's stance on human rights and geopolitical relations with Iran may be influenced by such events.",
+      "emerging_narrative": "India's delicate balance between its relations with Iran and the US may be put to the test amid escalating US-Iran tensions",
+      "contrarian_note": "",
+      "impact_scores": [],
+      "tags": [
+        "INDIA POLICY",
+        "Energy",
+        "Finance",
+        "Diplomacy",
+        "VC",
+        "US"
+      ]
+    },
+    {
       "date": "2026-08-01",
       "sector": "lenses",
       "headline_themes": [],
