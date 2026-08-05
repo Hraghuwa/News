@@ -2,6 +2,85 @@
   "version": 2,
   "entries": [
     {
+      "date": "2026-08-05",
+      "sector": "TECHNOLOGY",
+      "headline_themes": [
+        "China",
+        "Lucid",
+        "Chinese",
+        "This"
+      ],
+      "expert_summary": "The tech sector is experiencing significant developments, including Lucid's turnaround plan and the potential U.S. import ban on Chinese data centre components. This could have implications for tech companies operating in the electric vehicle and data centre sectors.",
+      "emerging_narrative": "A pattern of escalating U.S.-China tech tensions is emerging, with implications for the tech sector.",
+      "contrarian_note": "Lucid's turnaround plan could disrupt the electric vehicle industry, driven by advances in battery technology and manufacturing efficiency, and benefit companies that provide battery technology and manufacturing solutions.",
+      "impact_scores": [],
+      "tags": [
+        "TECHNOLOGY",
+        "Tech",
+        "Electric Vehicle",
+        "Data Centre"
+      ]
+    },
+    {
+      "date": "2026-08-05",
+      "sector": "INDIA FINANCE",
+      "headline_themes": [
+        "China",
+        "Indian",
+        "Chinese",
+        "This"
+      ],
+      "expert_summary": "The Indian finance sector is experiencing significant developments, including the potential U.S. import ban on Chinese data centre components. This could have implications for Indian companies operating in the tech sector.",
+      "emerging_narrative": "A pattern of escalating U.S.-China tech tensions is emerging, with implications for the Indian tech sector.",
+      "contrarian_note": "Indian companies could replace Chinese data centre components in the global supply chain, driven by U.S. import bans and protectionism.",
+      "impact_scores": [],
+      "tags": [
+        "INDIA FINANCE",
+        "Tech",
+        "Finance"
+      ]
+    },
+    {
+      "date": "2026-08-05",
+      "sector": "INDIA POLICY",
+      "headline_themes": [
+        "Indian",
+        "Trump"
+      ],
+      "expert_summary": "The Indian government is not directly mentioned in these articles, but the developments in the U.S. and global business and finance sector could have implications for Indian companies operating in the logistics and tech sectors. The Trump administration's revocation of non-citizen trucking licenses and prioritization of veterans could have implications for the Indian logistics industry.",
+      "emerging_narrative": "A pattern of cooperation between the Indian government and tech companies is emerging, with implications for the Indian logistics and tech sectors.",
+      "contrarian_note": "India could emerge as a beneficiary of U.S.-China tech tensions, attracting foreign investment and promoting domestic tech industry growth.",
+      "impact_scores": [],
+      "tags": [
+        "INDIA POLICY",
+        "Logistics",
+        "Tech",
+        "AI"
+      ]
+    },
+    {
+      "date": "2026-08-05",
+      "sector": "BUSINESS & FINANCE",
+      "headline_themes": [
+        "Iran",
+        "These",
+        "Canadian",
+        "Canada",
+        "Post"
+      ],
+      "expert_summary": "The business and finance sector is experiencing significant developments, including government financing to state-owned mail services, potential deals with Iran, and record-breaking stock rallies. These developments signal a mix of economic growth and geopolitical tensions. The Canadian government's $720 million financing to Canada Post could be a catalyst for logistics industry disruption.",
+      "emerging_narrative": "A pattern of government intervention in state-owned companies and a growing trend of cooperation in the tech and automotive sectors despite geopolitical tensions is emerging.",
+      "contrarian_note": "Government financing of state-owned mail services could be a catalyst for disruption in the logistics industry, not just a bailout.",
+      "impact_scores": [],
+      "tags": [
+        "BUSINESS & FINANCE",
+        "Finance",
+        "Logistics",
+        "Tech",
+        "GM"
+      ]
+    },
+    {
       "date": "2026-08-04",
       "sector": "lenses",
       "headline_themes": [],
