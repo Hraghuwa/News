@@ -2,6 +2,66 @@
   "version": 2,
   "entries": [
     {
+      "date": "2026-08-14",
+      "sector": "INDIA FINANCE",
+      "headline_themes": [
+        "Iran",
+        "India",
+        "Gold",
+        "Analysts"
+      ],
+      "expert_summary": "Gold and silver prices have declined in India due to profit booking and fears of war with Iran. Analysts expect near-term profit booking in gold, while silver could move towards Rs 2,40,000 per kg amid strong investment demand.",
+      "emerging_narrative": "The decline in gold and silver prices and the fears of war with Iran are creating a complex and uncertain economic environment in India, with implications for the fintech sector, trade, and investment.",
+      "contrarian_note": "India's fintech sector may benefit from the decline in gold and silver prices, as investors seek alternative assets",
+      "impact_scores": [],
+      "tags": [
+        "INDIA FINANCE",
+        "Finance",
+        "Fintech"
+      ]
+    },
+    {
+      "date": "2026-08-14",
+      "sector": "TECHNOLOGY",
+      "headline_themes": [
+        "Apple",
+        "Selena",
+        "Gomez",
+        "Flock"
+      ],
+      "expert_summary": "Apple is sending push notifications to iPhone users alerting them to spyware attacks, while investors are suing Selena Gomez over allegations of fraud tied to her mental health startup. Flock is introducing a new tool to help identify police abuse, but the company has yet to explain how it works.",
+      "emerging_narrative": "The tech sector is experiencing a range of challenges and opportunities, from the introduction of new tools and technologies to the ongoing risks and threats in the cyber domain.",
+      "contrarian_note": "Flock's new tool may create a new surveillance risk, making transparent and secure technologies a better bet",
+      "impact_scores": [],
+      "tags": [
+        "TECHNOLOGY",
+        "Technology",
+        "Cyber Security"
+      ]
+    },
+    {
+      "date": "2026-08-14",
+      "sector": "BUSINESS & FINANCE",
+      "headline_themes": [
+        "Chinese",
+        "Iran",
+        "Wall",
+        "Street",
+        "Trump"
+      ],
+      "expert_summary": "The US is preparing to use unprecedented economic tactics on Iran, while global companies are increasingly relying on Chinese technology despite geopolitical risks. Wall Street banks are selling billions of dollars of X loans, and copper trade is being used as a gauge of Trump's next tariff move.",
+      "emerging_narrative": "The ongoing trade tensions and geopolitical risks are creating a complex and volatile business environment, with companies increasingly relying on Chinese technology and governments using economic tactics to achieve their goals.",
+      "contrarian_note": "US economic tactics on Iran may backfire through Iranian cyber retaliation, benefiting cyber security stocks",
+      "impact_scores": [],
+      "tags": [
+        "BUSINESS & FINANCE",
+        "Finance",
+        "Technology",
+        "Logistics",
+        "US"
+      ]
+    },
+    {
       "date": "2026-08-13",
       "sector": "BUSINESS & FINANCE",
       "headline_themes": [
