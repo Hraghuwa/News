@@ -2,6 +2,47 @@
   "version": 2,
   "entries": [
     {
+      "date": "2026-08-15",
+      "sector": "BUSINESS & FINANCE",
+      "headline_themes": [
+        "OpenAI",
+        "This"
+      ],
+      "expert_summary": "OpenAI's talent exodus ahead of its IPO raises concerns about the company's stability and potential impact on the tech industry. The situation may lead to increased scrutiny of tech companies' leadership and governance structures. This could have implications for the broader tech industry and financial markets.",
+      "emerging_narrative": "The tech industry is facing increased scrutiny of its leadership and governance structures, potentially leading to a shift in investor confidence and valuation of tech companies.",
+      "contrarian_note": "OpenAI's talent exodus may be a wake-up call for the tech industry to prioritize employee well-being and transparent governance, leading to a more sustainable future",
+      "impact_scores": [],
+      "tags": [
+        "BUSINESS & FINANCE",
+        "Tech",
+        "Finance",
+        "Investment",
+        "IPO",
+        "PLI"
+      ]
+    },
+    {
+      "date": "2026-08-15",
+      "sector": "TECHNOLOGY",
+      "headline_themes": [
+        "Alleged",
+        "Iranian",
+        "This"
+      ],
+      "expert_summary": "Alleged Iranian hacks on US water utilities have raised concerns about cybersecurity, with potential implications for national security and infrastructure. The attacks highlight the vulnerability of critical infrastructure to state-sponsored hacking. This could lead to increased investment in cybersecurity measures.",
+      "emerging_narrative": "The growing threat of state-sponsored cyberattacks is creating new opportunities for cybersecurity investments and collaborations.",
+      "contrarian_note": "The Iranian hacks on US water utilities may be a distraction from the more pressing issue of internal vulnerabilities in critical infrastructure",
+      "impact_scores": [],
+      "tags": [
+        "TECHNOLOGY",
+        "Cybersecurity",
+        "Infrastructure",
+        "Government",
+        "US",
+        "AI"
+      ]
+    },
+    {
       "date": "2026-08-14",
       "sector": "INDIA FINANCE",
       "headline_themes": [
