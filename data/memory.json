@@ -2,6 +2,30 @@
   "version": 2,
   "entries": [
     {
+      "date": "2026-08-16",
+      "sector": "BUSINESS & FINANCE",
+      "headline_themes": [
+        "Iran",
+        "Strait",
+        "Hormuz",
+        "Trump",
+        "Anthropic"
+      ],
+      "expert_summary": "The US-Iran tensions over the Strait of Hormuz continue to escalate, with Iran rebuffing Trump's claims, while Anthropic's revenue jumps to $11.5 billion in the second quarter, underscoring the rapid growth of the tech industry. The situation has significant implications for global markets and oil supplies.",
+      "emerging_narrative": "The US-Iran tensions are creating a complex and volatile global landscape, with potential for significant implications for trade routes, energy supplies, and investment opportunities, particularly in the tech and energy sectors.",
+      "contrarian_note": "",
+      "impact_scores": [],
+      "tags": [
+        "BUSINESS & FINANCE",
+        "Energy",
+        "Tech",
+        "Finance",
+        "AI",
+        "IPO",
+        "US"
+      ]
+    },
+    {
       "date": "2026-08-15",
       "sector": "BUSINESS & FINANCE",
       "headline_themes": [
